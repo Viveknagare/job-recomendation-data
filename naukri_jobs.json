@@ -2051,803 +2051,783 @@
       "location": "Hybrid - Pune, Bangalore/Bengaluru, Delhi / NCR",
       "skills": ["Oracle EPM", "Financial Planning", "Hyperion"]
     },
+  [
   {
     "jobTitle": "YASH Technologies is Hiring - SAP PP QM Lead Consultant",
     "companyName": "Yash Technologies",
     "experience": "10-20 Yrs",
     "location": "Hybrid - Hyderabad, Pune",
-    "skills": []
+    "skills": ["SAP PP", "SAP QM", "SAP Implementation", "Production Planning", "Quality Management"]
   },
   {
     "jobTitle": "YASH Technologies is Hiring - SAP SD HANA - Settlement Management",
     "companyName": "Yash Technologies",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Indore, Hyderabad, Pune",
-    "skills": []
+    "skills": ["SAP SD", "SAP HANA", "Settlement Management", "Order-to-Cash", "Billing"]
   },
   {
     "jobTitle": "Accounting Associate PtP",
     "companyName": "Tetra Pak",
     "experience": "1-2 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Procure-to-Pay", "Accounts Payable", "Invoice Processing", "ERP Systems", "Financial Accounting"]
   },
   {
     "jobTitle": "Python Developer",
     "companyName": "Ericsson",
     "experience": "1-6 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Python", "Django", "Flask", "REST APIs", "SQL", "Git"]
   },
   {
     "jobTitle": "ITGC-Senior",
     "companyName": "EY",
     "experience": "3-6 Yrs",
     "location": "Hybrid - Kolkata, Pune, Gurugram",
-    "skills": []
+    "skills": ["IT General Controls", "SOX Compliance", "Audit", "Risk Management", "SAP Security"]
   },
   {
     "jobTitle": "Senior Software Engineer",
     "companyName": "Larsen & Toubro (L&T)",
     "experience": "4-9 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "Microservices", "Cloud Computing", "Agile Methodology"]
   },
   {
     "jobTitle": "SAP ISU Billing Consultant",
     "companyName": "Infosys",
     "experience": "2-3 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP ISU", "Billing", "Utilities", "FI-CA", "Customer Service"]
   },
   {
     "jobTitle": "SAP HCM Payroll Consultant",
     "companyName": "Infosys",
     "experience": "2-3 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP HCM", "Payroll", "Time Management", "HR Processes", "SAP Implementation"]
   },
   {
     "jobTitle": "SAP TM Consultant",
     "companyName": "Infosys",
     "experience": "2-3 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP TM", "Transportation Management", "Logistics", "Supply Chain", "SAP Implementation"]
   },
   {
     "jobTitle": "SAP SD CONSULTANT",
     "companyName": "Infosys",
     "experience": "2-4 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP SD", "Order Management", "Billing", "Sales Processes", "SAP Implementation"]
   },
   {
     "jobTitle": "IT Analyst",
     "companyName": "Rockwell Automation",
     "experience": "2-5 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["IT Support", "System Administration", "Troubleshooting", "Networking", "Database Management"]
   },
   {
     "jobTitle": "GN - SC&O - S&P - Business Solutions Coupa Integration/Configuration",
     "companyName": "Accenture",
     "experience": "3-7 Yrs",
     "location": "Pune, Gurugram, Delhi / NCR",
-    "skills": []
+    "skills": ["Coupa", "Procurement", "Supply Chain", "Integration", "Configuration"]
   },
   {
     "jobTitle": "Site Reliability / DevOps Engineer",
     "companyName": "Deutsche Bank",
     "experience": "3-8 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["DevOps", "CI/CD", "Kubernetes", "Docker", "Cloud Computing", "Monitoring"]
   },
   {
     "jobTitle": "Senior UI Developer",
     "companyName": "Ericsson",
     "experience": "4-6 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["JavaScript", "React", "Angular", "HTML", "CSS", "UI/UX Design"]
   },
   {
     "jobTitle": "ITGC Consultant",
     "companyName": "Infosys",
     "experience": "5-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["IT General Controls", "SOX Compliance", "Audit", "Risk Management", "SAP Security"]
   },
   {
     "jobTitle": "Project Lead",
     "companyName": "Infosys",
     "experience": "9-14 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Project Management", "Agile", "Scrum", "Stakeholder Management", "Risk Management"]
   },
   {
     "jobTitle": "Test Framework Developer",
     "companyName": "Infosys",
     "experience": "5-10 Yrs",
     "location": "Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Project Lead",
-    "companyName": "Infosys",
-    "experience": "9-15 Yrs",
-    "location": "Pune",
-    "skills": []
+    "skills": ["Test Automation", "Selenium", "Java", "Python", "CI/CD", "Agile"]
   },
   {
     "jobTitle": "SAP Security Consultant",
     "companyName": "Infosys",
     "experience": "7-9 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP Security", "GRC", "Role Design", "User Management", "Audit"]
   },
   {
     "jobTitle": "S&C Global Network - AI - Supply Chain Analytics - Manager",
     "companyName": "Accenture",
     "experience": "7-9 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["AI", "Supply Chain Analytics", "Machine Learning", "Data Science", "Python"]
   },
   {
     "jobTitle": "Android Automotive OS Developer",
     "companyName": "Infosys",
     "experience": "7-10 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Android Automotive OS", "Kotlin", "Java", "Embedded Systems", "Linux"]
   },
   {
     "jobTitle": "Senior Member of Technical Staff- Full Stack",
     "companyName": "athenahealth",
     "experience": "4-10 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Full Stack Development", "Java", "React", "Microservices", "Cloud Computing"]
   },
   {
     "jobTitle": "Business analyst - Regulatory reporting",
     "companyName": "Infosys",
     "experience": "2-8 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Regulatory Reporting", "Business Analysis", "SQL", "Data Analysis", "Compliance"]
   },
   {
     "jobTitle": "SAP ABAP Developer",
     "companyName": "Infosys",
     "experience": "2-5 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP ABAP", "SAP Fiori", "OData", "SAP HANA", "Debugging"]
   },
   {
     "jobTitle": "SAP FSCM Consultant",
     "companyName": "Infosys",
     "experience": "2-3 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP FSCM", "Credit Management", "Collections Management", "Treasury", "SAP Implementation"]
   },
   {
     "jobTitle": "SAP ISU Billing Consultant",
     "companyName": "Infosys",
     "experience": "2-3 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP ISU", "Billing", "Utilities", "FI-CA", "Customer Service"]
   },
   {
     "jobTitle": "SAP APO Consultant",
     "companyName": "Infosys",
     "experience": "2-3 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP APO", "Supply Chain Planning", "Demand Planning", "Supply Network Planning", "SAP Implementation"]
   },
   {
     "jobTitle": "Service Engineer",
     "companyName": "2coms",
     "experience": "2-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Field Service", "Troubleshooting", "Maintenance", "Customer Support", "Technical Documentation"]
   },
   {
     "jobTitle": "SAP CPI CONSULTANT",
     "companyName": "Infosys",
     "experience": "2-4 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP CPI", "Integration", "Cloud Platform", "API Management", "SAP PI/PO"]
   },
   {
     "jobTitle": "SAP BTP CONSULTANT",
     "companyName": "Infosys",
     "experience": "2-4 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP BTP", "Cloud Development", "Integration", "SAP Fiori", "SAP HANA"]
   },
   {
     "jobTitle": "SAP ABAP - HR Developer",
     "companyName": "Infosys",
     "experience": "3-5 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP ABAP", "SAP HR", "Payroll", "Time Management", "Debugging"]
   },
   {
     "jobTitle": "Test Framework Developer",
     "companyName": "Infosys",
     "experience": "5-10 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Test Automation", "Selenium", "Java", "Python", "CI/CD", "Agile"]
   },
   {
     "jobTitle": "SAP Security Consultant",
     "companyName": "Infosys",
     "experience": "7-9 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP Security", "GRC", "Role Design", "User Management", "Audit"]
   },
   {
     "jobTitle": "Android Automotive OS Developer",
     "companyName": "Infosys",
     "experience": "7-10 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Android Automotive OS", "Kotlin", "Java", "Embedded Systems", "Linux"]
   },
   {
     "jobTitle": "SAP BW/HANA Consultant",
     "companyName": "Infosys",
     "experience": "5-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP BW", "SAP HANA", "Data Modeling", "ETL", "Reporting"]
   },
   {
     "jobTitle": "SAP BASIS Consultant",
     "companyName": "Infosys",
     "experience": "9-11 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP BASIS", "System Administration", "Performance Tuning", "Upgrades", "Migration"]
   },
   {
     "jobTitle": "SAP Data Migration Technical Consultant",
     "companyName": "Infosys",
     "experience": "5-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP Data Migration", "ETL", "SAP S/4HANA", "Data Cleansing", "Data Validation"]
   },
   {
     "jobTitle": "SAP FICO Consultant",
     "companyName": "Infosys",
     "experience": "5-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP FICO", "Financial Accounting", "Controlling", "SAP S/4HANA", "Integration"]
   },
   {
     "jobTitle": "SAP PS CONSULTANT",
     "companyName": "Infosys",
     "experience": "5-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP PS", "Project Systems", "Project Management", "SAP Implementation", "Integration"]
   },
   {
     "jobTitle": "SAP MDG Consultant",
     "companyName": "Infosys",
     "experience": "5-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["SAP MDG", "Master Data Governance", "Data Quality", "SAP S/4HANA", "Data Modeling"]
   },
   {
     "jobTitle": "ITGC Consultant",
     "companyName": "Infosys",
     "experience": "5-7 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["IT General Controls", "SOX Compliance", "Audit", "Risk Management", "SAP Security"]
   },
   {
     "jobTitle": "Z/OS Mainframe Architect",
     "companyName": "Atos",
     "experience": "7-11 Yrs",
     "location": "Pune",
-    "skills": []
+    "skills": ["Z/OS", "Mainframe", "COBOL", "DB2", "CICS"]
   },
   {
     "jobTitle": "Back Office Executive Fresher",
     "companyName": "Trigent Software",
     "experience": "0 Yrs",
     "location": "Navi Mumbai, Chennai",
-    "skills": []
+    "skills": ["Data Entry", "MS Office", "Communication", "Documentation", "Administrative Support"]
   },
   {
     "jobTitle": "Wipro is hiring For Associate- Non voice process",
     "companyName": "Wipro",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Non-Voice Process", "Data Entry", "Customer Support", "Email Support", "Ticketing Systems"]
   },
   {
     "jobTitle": "Wipro is hiring Associate - Immediate joiners required(Grad only)",
     "companyName": "Wipro",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Customer Support", "Communication", "Problem Solving", "Ticketing Systems", "Email Support"]
   },
   {
     "jobTitle": "Service Desk Analyst",
     "companyName": "Wipro",
     "experience": "0-4 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["IT Support", "Troubleshooting", "Ticketing Systems", "Customer Service", "Networking"]
   },
   {
     "jobTitle": "Senior Executive - AOCS in the Role of Safety Marshal",
     "companyName": "Agile Airport Services",
     "experience": "0-4 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Safety Management", "Risk Assessment", "Compliance", "Incident Reporting", "Training"]
   },
   {
     "jobTitle": "Trust & Safety New Associate",
     "companyName": "Accenture",
     "experience": "0-1 Yrs",
     "location": "Navi Mumbai",
-    "skills": []
-  },
-  {
-    "jobTitle": "Trust & Safety New Associate",
-    "companyName": "Accenture",
-    "experience": "0-1 Yrs",
-    "location": "Navi Mumbai",
-    "skills": []
+    "skills": ["Trust & Safety", "Content Moderation", "Policy Enforcement", "Data Analysis", "Customer Support"]
   },
   {
     "jobTitle": "Record To Report Ops New Associate",
     "companyName": "Accenture",
     "experience": "0-1 Yrs",
     "location": "Navi Mumbai",
-    "skills": []
+    "skills": ["Record to Report", "Financial Reporting", "General Ledger", "Reconciliation", "ERP Systems"]
   },
   {
     "jobTitle": "Job Opening For Collection Executive - Navi Mumbai",
     "companyName": "Kone",
     "experience": "0-5 Yrs",
     "location": "Remote",
-    "skills": []
+    "skills": ["Collections", "Customer Service", "Debt Recovery", "Communication", "Negotiation"]
   },
   {
     "jobTitle": "Customer Service Executive",
     "companyName": "Hexaware Technologies",
     "experience": "0-5 Yrs",
     "location": "Thane, Panvel, Navi Mumbai",
-    "skills": []
+    "skills": ["Customer Support", "Communication", "Problem Solving", "Ticketing Systems", "Email Support"]
   },
   {
     "jobTitle": "Executive Video Editor",
     "companyName": "Swiggy",
     "experience": "0-3 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Video Editing", "Adobe Premiere Pro", "After Effects", "Motion Graphics", "Storyboarding"]
   },
   {
     "jobTitle": "Financial Analyst",
     "companyName": "eClerx",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Financial Analysis", "Excel", "Data Analysis", "Reporting", "Forecasting"]
   },
   {
     "jobTitle": "CA Freshers - Process Manger ( PM )",
     "companyName": "eClerx",
     "experience": "0-1 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Process Management", "Financial Reporting", "Compliance", "Audit", "ERP Systems"]
   },
   {
     "jobTitle": "HR Intern - Male",
     "companyName": "Muthoot Finance",
     "experience": "0-2 Yrs",
     "location": "Mumbai Suburban, Bengaluru, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["HR Operations", "Recruitment", "Employee Engagement", "Onboarding", "Administrative Support"]
   },
   {
     "jobTitle": "Walkin Drive - Medical Representative in Lupin Pharma in Mumbai",
     "companyName": "Lupin",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Pharmaceutical Sales", "Customer Relationship", "Product Knowledge", "Market Research", "Communication"]
   },
   {
     "jobTitle": "Reporting Analyst",
     "companyName": "Taskus",
     "experience": "0-5 Yrs",
     "location": "Mumbai, Navi Mumbai",
-    "skills": []
+    "skills": ["Data Analysis", "Reporting", "Excel", "SQL", "Data Visualization"]
   },
   {
     "jobTitle": "Bancassurance Manager",
     "companyName": "Kotak Life Insurance",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Bengaluru, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Bancassurance", "Sales", "Insurance Products", "Customer Relationship", "Team Management"]
   },
   {
     "jobTitle": "Resident Medical Officer",
     "companyName": "Wockhardt Hospitals",
     "experience": "0-5 Yrs",
     "location": "Mumbai Suburban, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Medical Care", "Patient Management", "Clinical Skills", "Emergency Response", "Healthcare"]
   },
   {
     "jobTitle": "Job Opportunities at IonIdea For the role of a Consultant",
     "companyName": "IonIdea",
     "experience": "2-6 Yrs",
     "location": "Hyderabad, Delhi / NCR, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Consulting", "Business Analysis", "Project Management", "Client Engagement", "Problem Solving"]
   },
   {
     "jobTitle": "Network Infrastructure Specialist",
     "companyName": "Software Development",
     "experience": "8-13 Yrs",
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Network Infrastructure", "Cisco", "Firewalls", "Routing", "Switching"]
   },
   {
     "jobTitle": "Hiring Fresher - Back office - MS Excel - Night shift -Mumbai",
     "companyName": "Trigent Software",
     "experience": "0 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Data Entry", "MS Excel", "Documentation", "Administrative Support", "Communication"]
   },
   {
     "jobTitle": "Non Voice Executive",
     "companyName": "Trigent Software",
     "experience": "0 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Non-Voice Process", "Data Entry", "Customer Support", "Email Support", "Ticketing Systems"]
   },
   {
     "jobTitle": "Account Officer- Entry Level Job",
     "companyName": "Hdfc Bank",
     "experience": "0-3 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Account Management", "Financial Reporting", "Reconciliation", "Customer Service", "Banking"]
   },
   {
     "jobTitle": "Walk-in Drive For freshers-Customer Service Desk(Chat Process)",
     "companyName": "Accenture",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Customer Support", "Chat Support", "Communication", "Problem Solving", "Ticketing Systems"]
   },
   {
     "jobTitle": "Fresher",
     "companyName": "State Bank of India (SBI)",
     "experience": "0 Yrs",
     "location": "Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)(Nala Sopara +5)",
-    "skills": []
+    "skills": ["Banking", "Customer Service", "Communication", "Data Entry", "Administrative Support"]
   },
   {
     "jobTitle": "Customer Service Executive",
     "companyName": "Hinduja Global Solutions (HGS)",
     "experience": "0-3 Yrs",
     "location": "Thane, Navi Mumbai",
-    "skills": []
+    "skills": ["Customer Support", "Communication", "Problem Solving", "Ticketing Systems", "Email Support"]
   },
   {
     "jobTitle": "Custody Support Analyst - International Private Bank",
     "companyName": "JPMorgan Chase Bank",
     "experience": "0-3 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Custody Services", "Financial Reporting", "Reconciliation", "Client Support", "Banking"]
   },
   {
     "jobTitle": "Sales Executive/Consultant - B2C Sales",
     "companyName": "Security and Intelligence Services (SIS)",
     "experience": "0-5 Yrs",
     "location": "Mumbai(Andheri East +3)",
-    "skills": []
+    "skills": ["Sales", "B2C", "Customer Relationship", "Negotiation", "Market Research"]
   },
   {
     "jobTitle": "Barista",
     "companyName": "Starbucks",
     "experience": "0-4 Yrs",
     "location": "Mumbai Suburban, Thane, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Coffee Making", "Customer Service", "Cash Handling", "Food Safety", "Teamwork"]
   },
   {
     "jobTitle": "Procure To Pay Operations Associate",
     "companyName": "Accenture",
     "experience": "0-1 Yrs",
     "location": "Navi Mumbai",
-    "skills": []
+    "skills": ["Procure-to-Pay", "Accounts Payable", "Invoice Processing", "ERP Systems", "Vendor Management"]
   },
   {
     "jobTitle": "Urgent Opening For Customer Service",
     "companyName": "Tech Mahindra",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Customer Support", "Communication", "Problem Solving", "Ticketing Systems", "Email Support"]
   },
   {
     "jobTitle": "Trade Support Analyst",
     "companyName": "JPMorgan Chase Bank",
     "experience": "0-5 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Trade Support", "Financial Markets", "Reconciliation", "Settlements", "Client Support"]
   },
   {
     "jobTitle": "Procurement Operations New Associate",
     "companyName": "Accenture",
     "experience": "0-1 Yrs",
     "location": "Mumbai",
-    "skills": []
-  },
-  {
-    "jobTitle": "Customer Service Executive",
-    "companyName": "Hexaware Technologies",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
+    "skills": ["Procurement", "Vendor Management", "Purchase Orders", "ERP Systems", "Supplier Negotiation"]
   },
   {
     "jobTitle": "Executive - People & Culture Operations (GSS)",
     "companyName": "Morningstar",
     "experience": "0-2 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["HR Operations", "Employee Engagement", "Onboarding", "Administrative Support", "Communication"]
   },
   {
     "jobTitle": "Editorial Language Specialist - Malayalam",
     "companyName": "Nielsen Sports",
     "experience": "0-2 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Malayalam", "Content Editing", "Proofreading", "Translation", "Communication"]
   },
   {
     "jobTitle": "Application Tech Support Practitioner",
     "companyName": "Accenture",
     "experience": "0-2 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Technical Support", "Troubleshooting", "Ticketing Systems", "Customer Service", "Networking"]
   },
   {
     "jobTitle": "Campaign Executive",
     "companyName": "ESSAR",
     "experience": "0-1 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Campaign Management", "Marketing", "Data Analysis", "Communication", "Project Management"]
   },
   {
     "jobTitle": "Company Secretary",
     "companyName": "Laminaar Aviation Infotech",
     "experience": "0-1 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Corporate Governance", "Compliance", "Legal Documentation", "Board Meetings", "Company Law"]
   },
   {
     "jobTitle": "Indirect Tax Specialist",
     "companyName": "Thyrocare",
     "experience": "0-4 Yrs",
     "location": "Mumbai(Ghatkopar West)",
-    "skills": []
+    "skills": ["Indirect Tax", "GST", "Compliance", "Tax Reporting", "Audit"]
   },
   {
     "jobTitle": "Interview Schedule-Turbhe-Virtual NRI-Acquisition Officer- 13th Feb",
     "companyName": "Hdfc Bank",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Customer Acquisition", "Banking", "NRI Services", "Communication", "Sales"]
   },
   {
     "jobTitle": "Financial Analyst",
     "companyName": "eClerx",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Financial Analysis", "Excel", "Data Analysis", "Reporting", "Forecasting"]
   },
   {
     "jobTitle": "Customer Support Executive",
     "companyName": "ESSAR",
     "experience": "0-2 Yrs",
     "location": "Mumbai",
-    "skills": []
+    "skills": ["Customer Support", "Communication", "Problem Solving", "Ticketing Systems", "Email Support"]
   },
   {
     "jobTitle": "Field Sales Executive",
     "companyName": "Adani Group",
     "experience": "0-4 Yrs",
     "location": "Chandigarh, Bangalore Rural, Ahmedabad",
-    "skills": []
+    "skills": ["Field Sales", "Customer Relationship", "Negotiation", "Market Research", "Communication"]
   },
   {
     "jobTitle": "Team Lead",
     "companyName": "Recoup Info",
     "experience": "3-7 Yrs",
     "location": "Kolkata, Lucknow, Bengaluru",
-    "skills": []
+    "skills": ["Team Management", "Project Management", "Client Engagement", "Problem Solving", "Communication"]
   },
   {
     "jobTitle": "Materials Management Analyst II- Material Master Data",
     "companyName": "Honeywell",
     "experience": "4-7 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Material Management", "Data Analysis", "ERP Systems", "Supply Chain", "Inventory Management"]
   },
   {
     "jobTitle": "Testing and Quality Assurance Engineer",
     "companyName": "Capgemini",
     "experience": "6-11 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Testing", "Quality Assurance", "Automation", "Selenium", "Agile"]
   },
   {
     "jobTitle": "Power Bi Developer",
     "companyName": "NTT DATA BUSINESS SOLUTIONS",
     "experience": "7-9 Yrs",
     "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Power BI", "Data Visualization", "SQL", "DAX", "Data Modeling"]
   },
   {
     "jobTitle": "Program Lead - Analytics Consulting",
     "companyName": "Zetwerk",
     "experience": "6-15 Yrs",
     "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Analytics", "Consulting", "Data Science", "Machine Learning", "Project Management"]
   },
   {
     "jobTitle": "Assistant Manager, US Partnership Tax",
     "companyName": "EY",
     "experience": "4-7 Yrs",
     "location": "Hybrid - Kolkata, Gurugram, Bengaluru",
-    "skills": []
+    "skills": ["Taxation", "US Tax", "Partnership Tax", "Compliance", "Financial Reporting"]
   },
   {
     "jobTitle": "Program Lead - Tech Consulting",
     "companyName": "Zetwerk",
     "experience": "8-12 Yrs",
     "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Tech Consulting", "Project Management", "Client Engagement", "Problem Solving", "Communication"]
   },
   {
     "jobTitle": "Capgemini hiring Automation Testers...!!!",
     "companyName": "Capgemini",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Automation Testing", "Selenium", "Java", "Agile", "CI/CD"]
   },
   {
     "jobTitle": "Azure Big Data Engineer",
     "companyName": "Zetwerk",
     "experience": "4-9 Yrs",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+    "skills": ["Azure", "Big Data", "Data Engineering", "Spark", "Data Lakes"]
   },
   {
     "jobTitle": "Urgent SolarWinds Hiring For L2 & L3 Roles",
     "companyName": "HCLTech",
     "experience": "6-11 Yrs",
     "location": "Hybrid - Noida, Hyderabad, Bengaluru",
-    "skills": []
+    "skills": ["SolarWinds", "Network Monitoring", "Troubleshooting", "IT Support", "Networking"]
   },
   {
     "jobTitle": "Program Lead - Analytics Consulting - IBP O9",
     "companyName": "Zetwerk",
     "experience": "6-15 Yrs",
     "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Analytics", "Consulting", "IBP O9", "Supply Chain", "Project Management"]
   },
   {
     "jobTitle": "Automation Architect - AI",
     "companyName": "Zetwerk",
     "experience": "6-15 Yrs",
     "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Automation", "AI", "Machine Learning", "RPA", "Python"]
   },
   {
     "jobTitle": "GN - SONG - Service - Business Process Transformation - Manager",
     "companyName": "Accenture",
     "experience": "7-12 Yrs",
     "location": "Hyderabad, Delhi / NCR, Bengaluru",
-    "skills": []
+    "skills": ["Business Process Transformation", "Consulting", "Process Improvement", "Project Management", "Client Engagement"]
   },
   {
     "jobTitle": "GN - SONG - Design and Digital Products - UI/UX - Manager",
     "companyName": "Accenture",
     "experience": "8-12 Yrs",
     "location": "Hyderabad, Gurugram, Bengaluru",
-    "skills": []
+    "skills": ["UI/UX Design", "Digital Products", "User Research", "Wireframing", "Prototyping"]
   },
   {
     "jobTitle": "Sr Advanced Systems Engr",
     "companyName": "Honeywell",
     "experience": "5-10 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Systems Engineering", "Embedded Systems", "Hardware Design", "Firmware", "Testing"]
   },
   {
     "jobTitle": "Technical Lead - Industrial Activity Manager",
     "companyName": "Thales",
     "experience": "8-12 Yrs",
     "location": "Ghaziabad, Bengaluru",
-    "skills": []
+    "skills": ["Technical Leadership", "Industrial Automation", "Project Management", "Client Engagement", "Problem Solving"]
   },
   {
     "jobTitle": "HCE Comms Sr Specialist",
     "companyName": "Honeywell",
     "experience": "5-10 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Communication Systems", "Networking", "Troubleshooting", "IT Support", "System Administration"]
   },
   {
     "jobTitle": "Sr. Mechanical Design Engineer..!! (Interviews on 15th Feb- Bangalore)",
     "companyName": "Tech Mahindra",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Mechanical Design", "CAD", "SolidWorks", "Product Development", "Prototyping"]
   },
   {
     "jobTitle": "Mechanical Design Engineer - CAD..(Interviews on 15th Feb- Bangalore)",
     "companyName": "Tech Mahindra",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Mechanical Design", "CAD", "SolidWorks", "Product Development", "Prototyping"]
   },
   {
     "jobTitle": "Hiring System Engineers -Hydraulics (Interviews on 15th Feb- Bangalore",
     "companyName": "Tech Mahindra",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Hydraulics", "System Engineering", "Troubleshooting", "Maintenance", "Testing"]
   },
   {
     "jobTitle": "Walk-In at Bangalore on 15th Feb | Controls & Instrumentation Engineer",
     "companyName": "Tech Mahindra",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Controls Engineering", "Instrumentation", "PLC", "SCADA", "Troubleshooting"]
   },
   {
     "jobTitle": "Software Engr II",
     "companyName": "Honeywell",
     "experience": "4-7 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "C++", "Python", "Agile"]
   },
   {
     "jobTitle": "Actimize Test Engineer",
     "companyName": "HCLTech",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Actimize", "Testing", "Financial Crime", "AML", "Automation"]
   },
   {
     "jobTitle": "Advanced Software Engr",
     "companyName": "Honeywell",
     "experience": "5-10 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "C++", "Python", "Agile"]
   },
   {
     "jobTitle": "Sr Advanced Software Engr",
     "companyName": "Honeywell",
     "experience": "5-10 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "C++", "Python", "Agile"]
   },
   {
     "jobTitle": "Nodejs",
     "companyName": "Tata Consultancy Services",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Node.js", "JavaScript", "Express.js", "REST APIs", "MongoDB"]
   },
   {
     "jobTitle": "Android Developer",
     "companyName": "Tata Consultancy Services",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Android", "Kotlin", "Java", "REST APIs", "Mobile Development"]
   },
   {
     "jobTitle": "Java Full Stack Developer",
     "companyName": "Tata Consultancy Services",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "React", "Microservices", "REST"]
   },
   {
     "jobTitle": "Java Developer",
