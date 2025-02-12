@@ -1,4 +1,3 @@
-
 [
   {
     "jobTitle": "GN - Tech Strategy and Advisory - TS&A -Resilient Modern Architecture",
@@ -2051,7 +2050,6 @@
       "location": "Hybrid - Pune, Bangalore/Bengaluru, Delhi / NCR",
       "skills": ["Oracle EPM", "Financial Planning", "Hyperion"]
     },
-  [
   {
     "jobTitle": "YASH Technologies is Hiring - SAP PP QM Lead Consultant",
     "companyName": "Yash Technologies",
@@ -3429,2701 +3427,1476 @@
     "companyName": "Honeywell",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Hardware Design", "PCB Design", "Embedded Systems", "Signal Processing", "FPGA"]
   },
   {
     "jobTitle": "Cognizant - Walk-in Interview For React.js Developer - 15th Feb Drive",
     "companyName": "Cognizant",
     "experience": "4-9 Yrs",
     "location": "Hybrid - Chennai, Coimbatore, Bengaluru",
-    "skills": []
+    "skills": ["React.js", "JavaScript", "HTML/CSS", "Redux", "REST APIs"]
   },
   {
     "jobTitle": "Electromechanics, Technical Expert",
     "companyName": "Schneider Electric",
     "experience": "12-15 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Electromechanical Systems", "Automation", "PLC Programming", "CAD", "Troubleshooting"]
   },
   {
     "jobTitle": "Manager - SAC Planning",
     "companyName": "Watson Pharama",
     "experience": "10-15 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Supply Chain Management", "SAP SAC", "Data Analytics", "Forecasting", "Inventory Management"]
   },
   {
-    "jobTitle": "Director,Strategy and Business Performance",
+    "jobTitle": "Director, Strategy and Business Performance",
     "companyName": "AstraZeneca India Pvt. Ltd",
     "experience": "9-12 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Business Strategy", "Performance Management", "Data Analysis", "Stakeholder Management", "Leadership"]
   },
   {
     "jobTitle": "Technical Project Manager For Embedded Software Development",
     "companyName": "Tech Mahindra",
     "experience": "10-17 Yrs",
     "location": "Bangalore Rural, Bengaluru",
-    "skills": []
+    "skills": ["Embedded Systems", "Project Management", "C/C++", "Agile Methodologies", "RTOS"]
   },
   {
     "jobTitle": "Customer Care Executive",
     "companyName": "Teleperformance (TP)",
     "experience": "0 Yrs",
     "location": "Bangalore Rural, Bengaluru(Kundalahalli +1)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Customer Care Executive",
-    "companyName": "Teleperformance (TP)",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
-  },
-  {
-    "jobTitle": "Customer Care Executive",
-    "companyName": "Teleperformance (TP)",
-    "experience": "0 Yrs",
-    "location": "Bangalore Rural, Bengaluru(Kundalahalli +1)",
-    "skills": []
+    "skills": ["Customer Support", "Communication Skills", "Problem Solving", "CRM Tools", "Multitasking"]
   },
   {
     "jobTitle": "Know Your Client (KYC) Analyst",
     "companyName": "Deutsche Bank",
     "experience": "0-1 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["KYC", "AML", "Compliance", "Document Verification", "Risk Assessment"]
   },
   {
-    "jobTitle": "International Customer Support( voice)",
+    "jobTitle": "International Customer Support (Voice)",
     "companyName": "Trigent Software",
     "experience": "1-2 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Customer Support", "Communication Skills", "Problem Solving", "CRM Tools", "Multitasking"]
   },
   {
     "jobTitle": "BTL Officer",
     "companyName": "Clove Dental",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Marketing", "Campaign Management", "Event Planning", "Budgeting", "Analytics"]
   },
   {
     "jobTitle": "Cars24 Urgent Hiring || Retail Associate || Bangalore ||",
     "companyName": "Cars24",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Retail Sales", "Customer Service", "Inventory Management", "Communication Skills", "Upselling"]
   },
   {
     "jobTitle": "Urgent: Job Opportunity: IT Recruiter",
     "companyName": "NTT DATA BUSINESS SOLUTIONS",
     "experience": "1-4 Yrs",
     "location": "Hybrid - Chennai, Bengaluru",
-    "skills": []
+    "skills": ["IT Recruitment", "Talent Acquisition", "Sourcing", "Interviewing", "ATS Tools"]
   },
   {
     "jobTitle": "IT Service Desk Analyst",
     "companyName": "Fortune India 500 IT Services Company",
     "experience": "1-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Support", "Troubleshooting", "Ticketing Systems", "Networking", "Customer Service"]
   },
   {
     "jobTitle": "Tcs is hiring For Oracle DBA.",
     "companyName": "Tata Consultancy Services",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Oracle DBA", "SQL", "Database Management", "Backup & Recovery", "Performance Tuning"]
   },
   {
     "jobTitle": "Active Directory Administrator",
     "companyName": "Tata Consultancy Services",
     "experience": "7-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Active Directory", "Windows Server", "Group Policy", "LDAP", "Troubleshooting"]
   },
   {
     "jobTitle": "Sr. Associate || 1040 US Tax || Review",
     "companyName": "tax and immigration service organization",
     "experience": "3-8 Yrs",
     "location": "Remote",
-    "skills": []
+    "skills": ["US Tax", "1040 Forms", "Tax Compliance", "Review", "Accounting"]
   },
   {
     "jobTitle": "Tax Manager || Enrolled Agent",
     "companyName": "leading provider of tax, immigration",
     "experience": "5-10 Yrs",
     "location": "Remote",
-    "skills": []
+    "skills": ["Tax Management", "Enrolled Agent", "Tax Compliance", "IRS Regulations", "Client Advisory"]
   },
   {
     "jobTitle": "SDET-2",
     "companyName": "Simplilearn",
     "experience": "2-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Testing", "Automation", "Java/Python", "Selenium", "CI/CD"]
   },
   {
     "jobTitle": "React Js Software Engineer - Bangalore",
     "companyName": "Infosys",
     "experience": "2-7 Yrs",
     "location": "Hybrid - Bengaluru",
-    "skills": []
+    "skills": ["React.js", "JavaScript", "HTML/CSS", "Redux", "REST APIs"]
   },
   {
     "jobTitle": "SCCM Administrator",
     "companyName": "Tata Consultancy Services",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["SCCM", "Windows Server", "Patch Management", "Deployment", "Troubleshooting"]
   },
   {
     "jobTitle": "Windows Administrator",
     "companyName": "Tata Consultancy Services",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Windows Server", "Active Directory", "Group Policy", "Troubleshooting", "Networking"]
   },
   {
     "jobTitle": "BI Data Architect - Bangalore",
     "companyName": "Acuity Knowledge Partners",
     "experience": "9-14 Yrs",
     "location": "Hybrid - Bengaluru",
-    "skills": []
+    "skills": ["Business Intelligence", "Data Architecture", "ETL", "SQL", "Data Warehousing"]
   },
   {
     "jobTitle": "Java Full Stack Developer",
     "companyName": "NA",
     "experience": "5-7 Yrs",
     "location": "Bengaluru(Whitefield)",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "React.js", "REST APIs", "Microservices"]
   },
   {
     "jobTitle": "Power Apps Developer - Bangalore",
     "companyName": "Acuity Knowledge Partners",
     "experience": "4-8 Yrs",
     "location": "Hybrid - Bengaluru",
-    "skills": []
+    "skills": ["Power Apps", "Power Automate", "SharePoint", "Microsoft 365", "UI/UX"]
   },
   {
     "jobTitle": "Support Ops Specialist, Support Operations",
     "companyName": "Amazon",
     "experience": "0-4 Yrs",
     "location": "Hyderabad",
-    "skills": []
+    "skills": ["Customer Support", "Operations", "Data Analysis", "Problem Solving", "Communication"]
   },
   {
     "jobTitle": "System Development Engineer, Amazon Payment Products",
     "companyName": "Amazon",
     "experience": "0-2 Yrs",
     "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "System Development Engineer, Amazon Payment Products",
-    "companyName": "Amazon",
-    "experience": "0-2 Yrs",
-    "location": "Bengaluru",
-    "skills": []
+    "skills": ["System Design", "Java/Python", "AWS", "API Development", "Troubleshooting"]
   },
   {
     "jobTitle": "Associate, Customer Experience and Business Trends",
     "companyName": "Amazon",
     "experience": "0-4 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Customer Experience", "Data Analysis", "Trend Analysis", "Communication", "Problem Solving"]
   },
   {
     "jobTitle": "Investigation Specialist",
     "companyName": "Amazon",
     "experience": "0-7 Yrs",
     "location": "Hyderabad",
-    "skills": []
+    "skills": ["Investigation", "Fraud Detection", "Data Analysis", "Compliance", "Reporting"]
   },
   {
     "jobTitle": "Associate Site Merchandiser (Level 3), Luggage",
     "companyName": "Amazon",
     "experience": "0-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Merchandising", "Inventory Management", "Data Analysis", "E-commerce", "Customer Insights"]
   },
   {
     "jobTitle": "FC Dock Team Lead, FCD",
     "companyName": "Amazon",
     "experience": "0-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Logistics", "Team Management", "Operations", "Warehouse Management", "Problem Solving"]
   },
   {
     "jobTitle": "Business Analyst, Amazon Ads",
     "companyName": "Amazon",
     "experience": "0-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Business Analysis", "Data Analysis", "SQL", "Tableau", "Stakeholder Management"]
   },
   {
     "jobTitle": "Network Operations Representative",
     "companyName": "Trigent Software",
     "experience": "0 Yrs",
     "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Network Operations Representative",
-    "companyName": "Trigent Software",
-    "experience": "0 Yrs",
-    "location": "Bengaluru",
-    "skills": []
+    "skills": ["Network Monitoring", "Troubleshooting", "Ticketing Systems", "Communication", "Problem Solving"]
   },
   {
     "jobTitle": "Technical Support (Non voice) - Salary 21K CTC",
     "companyName": "Trigent Software",
     "experience": "0 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Technical Support", "Troubleshooting", "Ticketing Systems", "Communication", "Problem Solving"]
   },
   {
     "jobTitle": "Software Dev Engineer, Amazon",
     "companyName": "Amazon",
     "experience": "0-7 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java/Python", "AWS", "API Development", "Troubleshooting"]
   },
   {
     "jobTitle": "Software Dev Engineer II, IES REG",
     "companyName": "Amazon",
     "experience": "0-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java/Python", "AWS", "API Development", "Troubleshooting"]
   },
   {
     "jobTitle": "Operations Executive",
     "companyName": "myself",
     "experience": "0 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Operations", "Data Entry", "Communication", "Problem Solving", "Multitasking"]
   },
   {
     "jobTitle": "Software Development Engineer, Alexa Audio",
     "companyName": "Amazon",
     "experience": "0-7 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java/Python", "AWS", "API Development", "Troubleshooting"]
   },
   {
     "jobTitle": "Talent Acquisition (Non Tech)",
     "companyName": "Recruitment & Staffing",
     "experience": "0-2 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Talent Acquisition", "Sourcing", "Interviewing", "ATS Tools", "Communication"]
   },
   {
     "jobTitle": "It Recruiter",
     "companyName": "Trigent Software",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["IT Recruitment", "Sourcing", "Interviewing", "ATS Tools", "Communication"]
   },
   {
     "jobTitle": "Recruiter / Senior Recruiter",
     "companyName": "We are India's leading talent solutions provider",
     "experience": "0-4 Yrs",
     "location": "Hybrid - Bangalore Rural, Bengaluru",
-    "skills": []
+    "skills": ["Recruitment", "Sourcing", "Interviewing", "ATS Tools", "Communication"]
   },
   {
     "jobTitle": "Walkin Drive - Medical Representative in Lupin Pharma in Bangalore",
     "companyName": "Lupin",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
-  },
-  {
-    "jobTitle": "Walkin Drive - Medical Representative in Lupin Pharma in Bangalore",
-    "companyName": "Lupin",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
+    "skills": ["Pharmaceutical Sales", "Customer Engagement", "Product Knowledge", "Communication", "Negotiation"]
   },
   {
     "jobTitle": "Sr. Escalation Specialist, BRP Escalations",
     "companyName": "Amazon",
     "experience": "0-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Escalation Management", "Problem Solving", "Customer Support", "Communication", "Data Analysis"]
   },
   {
     "jobTitle": "Know Your Client (KYC) Analyst, NCT",
     "companyName": "Deutsche Bank",
     "experience": "0-1 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["KYC", "AML", "Compliance", "Document Verification", "Risk Assessment"]
   },
   {
     "jobTitle": "Customer Care Executive",
     "companyName": "Teleperformance (TP)",
     "experience": "0-1 Yrs",
     "location": "Bengaluru, Koramangala",
-    "skills": []
+    "skills": ["Customer Support", "Communication", "Problem Solving", "CRM Tools", "Multitasking"]
   },
   {
     "jobTitle": "Know Your Client (KYC) Operator",
     "companyName": "Deutsche Bank",
     "experience": "0-1 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["KYC", "AML", "Compliance", "Document Verification", "Risk Assessment"]
   },
   {
     "jobTitle": "Software Dev Engineer II, Amazon",
     "companyName": "Amazon",
     "experience": "0-7 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java/Python", "AWS", "API Development", "Troubleshooting"]
   },
   {
     "jobTitle": "System Development Engineer",
     "companyName": "Amazon",
     "experience": "0-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["System Design", "Java/Python", "AWS", "API Development", "Troubleshooting"]
   },
   {
     "jobTitle": "Customer Support Executive",
     "companyName": "Teleperformance (TP)",
     "experience": "0-1 Yrs",
     "location": "Bengaluru(S.G. Palya +24)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Customer Support Executive",
-    "companyName": "Teleperformance (TP)",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
+    "skills": ["Customer Support", "Communication", "Problem Solving", "CRM Tools", "Multitasking"]
   },
   {
     "jobTitle": "Finance Analyst, IN Marketplace Finance",
     "companyName": "Amazon",
     "experience": "0-8 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Financial Analysis", "Data Analysis", "Excel", "Reporting", "Stakeholder Management"]
   },
   {
     "jobTitle": "Senior Manager - Operations Excellence",
     "companyName": "Siemens",
     "experience": "0-12 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Operations Management", "Process Improvement", "Lean Six Sigma", "Leadership", "Data Analysis"]
   },
   {
     "jobTitle": "ASSOCIATE SIGNALLING FUNCTIONAL DESIGN ENGINEER",
     "companyName": "Hitachi Energy",
     "experience": "0-3 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Signalling Systems", "Railway Design", "CAD", "Troubleshooting", "Documentation"]
   },
   {
     "jobTitle": "KYC-Associate",
     "companyName": "Deutsche Bank",
     "experience": "6-11 Yrs",
     "location": "Hybrid - Jaipur",
-    "skills": []
+    "skills": ["KYC", "AML", "Compliance", "Document Verification", "Risk Assessment"]
   },
   {
     "jobTitle": "Oracle Cloud Infrastructure/OCI",
     "companyName": "Titan Company",
     "experience": "2-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["OCI", "Cloud Computing", "Database Management", "Networking", "Troubleshooting"]
   },
   {
     "jobTitle": "Technical Program Manager",
     "companyName": "Hdfc Bank",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Program Management", "Agile Methodologies", "Stakeholder Management", "Risk Management", "Leadership"]
   },
   {
     "jobTitle": "GN - SONG - MT - Japan Bilingual - Consultant",
     "companyName": "Accenture",
     "experience": "2-6 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Japanese Language", "Consulting", "Project Management", "Data Analysis", "Communication"]
   },
   {
     "jobTitle": "GN - SONG - Design and Digital Products - UI/UX - Consultant",
     "companyName": "Accenture",
     "experience": "4-8 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["UI/UX Design", "Figma", "Wireframing", "Prototyping", "User Research"]
   },
   {
     "jobTitle": "S&C Global Network - AI - Healthcare Analytics - Consultant",
     "companyName": "Accenture",
     "experience": "4-8 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Healthcare Analytics", "AI/ML", "Data Analysis", "Python/R", "Stakeholder Management"]
   },
   {
     "jobTitle": "S&C GN - Strategy - MC - T&O - Change Management - Consultant",
     "companyName": "Accenture",
     "experience": "4-8 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Change Management", "Strategy Consulting", "Stakeholder Management", "Project Management", "Communication"]
   },
   {
     "jobTitle": "S&CGN - Tech Strategy & Advisory Data on Cloud - Consultant",
     "companyName": "Accenture",
     "experience": "5-9 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Cloud Computing", "Data Strategy", "AWS/Azure", "Data Governance", "Consulting"]
   },
   {
     "jobTitle": "Application Lead",
     "companyName": "Accenture",
     "experience": "5-10 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Application Development", "Java/Python", "Agile Methodologies", "Stakeholder Management", "Leadership"]
   },
   {
     "jobTitle": "Sales Manager- IN SWA, IN-SWA",
     "companyName": "Amazon",
     "experience": "0-8 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Sales Management", "Business Development", "Customer Engagement", "Negotiation", "Leadership"]
   },
   {
     "jobTitle": "Software Development Engineer, Alexa Communications",
     "companyName": "Amazon",
     "experience": "0-7 Yrs",
     "location": "Chennai",
-    "skills": []
+    "skills": ["Software Development", "Java/Python", "AWS", "API Development", "Troubleshooting"]
   },
   {
     "jobTitle": "S&C Global Network - AI - Hi Tech - Data Science Analyst",
     "companyName": "Accenture",
     "experience": "1-4 Yrs",
     "location": "Kolkata",
-    "skills": []
+    "skills": ["Data Science", "AI/ML", "Python/R", "Data Analysis", "Stakeholder Management"]
   },
   {
     "jobTitle": "HR Business Partnerships Manager",
     "companyName": "Emirates",
     "experience": "6-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["HR Management", "Employee Relations", "Talent Management", "Leadership", "Communication"]
   },
   {
     "jobTitle": "React Js Software Engineer - Bangalore",
     "companyName": "Infosys",
     "experience": "2-7 Yrs",
     "location": "Hybrid - Chennai",
-    "skills": []
+    "skills": ["React.js", "JavaScript", "HTML/CSS", "Redux", "REST APIs"]
   },
   {
     "jobTitle": "AIRCRAFT TECHNICIAN",
     "companyName": "Emirates",
     "experience": "5-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Aircraft Maintenance", "Troubleshooting", "Aviation Standards", "Safety Compliance", "Technical Documentation"]
   },
   {
     "jobTitle": "Manager - Assurance - National - ASU - FAAS - Financial&AccountingAdv",
     "companyName": "EY",
     "experience": "5-6 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Financial Advisory", "Accounting", "Audit", "Compliance", "Stakeholder Management"]
   },
   {
     "jobTitle": "Field Sales Manager",
     "companyName": "Wipro",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Kolkata, Hyderabad, Pune, Ahmedabad, Gurugram, Chennai, Bengaluru, Delhi / NCR, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Sales Management", "Business Development", "Customer Engagement", "Negotiation", "Leadership"]
   },
   {
     "jobTitle": "Sales Trainer",
     "companyName": "Wipro",
     "experience": "4-9 Yrs",
     "location": "Hybrid - Kolkata, Hyderabad, Pune, Ahmedabad, Gurugram, Chennai, Bengaluru, Delhi / NCR, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Sales Training", "Communication", "Product Knowledge", "Coaching", "Leadership"]
   },
   {
     "jobTitle": "Java Spring Boot Developer",
     "companyName": "Tata Consultancy Services",
     "experience": "N/A",
     "location": "N/A",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "REST APIs", "Microservices", "SQL"]
   },
   {
     "jobTitle": "Senior Software Engineer",
     "companyName": "FE Fundinfo",
     "experience": "3-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java/Python", "SQL", "Agile Methodologies", "Troubleshooting"]
   },
   {
     "jobTitle": "Engineering Manager",
     "companyName": "Swiggy",
     "experience": "8-13 Yrs",
     "location": "Kharagpur",
-    "skills": []
+    "skills": ["Engineering Management", "Leadership", "Agile Methodologies", "Stakeholder Management", "Technical Expertise"]
   },
   {
     "jobTitle": "GN-Industry Strategy-Retail-Consultant",
     "companyName": "Accenture",
     "experience": "4-6 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Retail Strategy", "Consulting", "Data Analysis", "Stakeholder Management", "Market Research"]
   },
   {
     "jobTitle": "Application Developer",
     "companyName": "Accenture",
     "experience": "3-8 Yrs",
     "location": "Chennai",
-    "skills": []
+    "skills": ["Application Development", "Java/Python", "Agile Methodologies", "Stakeholder Management", "Troubleshooting"]
   },
   {
     "jobTitle": "Full stack Developer",
     "companyName": "Hitachi",
     "experience": "7-9 Yrs",
     "location": "Noida",
-    "skills": []
+    "skills": ["Full Stack Development", "Java/Python", "React.js", "REST APIs", "SQL"]
   },
   {
     "jobTitle": "Site Reliability Engineer",
     "companyName": "DXC Technology",
     "experience": "4-7 Yrs",
     "location": "Chennai",
-    "skills": []
+    "skills": ["Site Reliability Engineering", "DevOps", "Cloud Computing", "Automation", "Troubleshooting"]
   },
-  {
+    {
     "jobTitle": "Software Development Engineer",
     "companyName": "Accenture",
     "experience": "5-7 Yrs",
     "location": "Chennai",
-    "skills": []
+    "skills": ["Java", "Python", "C++", "SQL", "Agile Methodology"]
   },
   {
     "jobTitle": "Technology Architect",
     "companyName": "Accenture",
     "experience": "7-12 Yrs",
     "location": "Gurugram",
-    "skills": []
+    "skills": ["Cloud Architecture", "Microservices", "DevOps", "Kubernetes", "AWS"]
   },
   {
     "jobTitle": "GN - Industry - MC - Energy Platforms - Consultant",
     "companyName": "Accenture",
     "experience": "5-8 Yrs",
     "location": "Kolkata",
-    "skills": []
+    "skills": ["Energy Management Systems", "Data Analytics", "Project Management", "SAP", "Renewable Energy"]
   },
   {
     "jobTitle": "GN - Industry - MC - Energy Trading - Consultant",
     "companyName": "Accenture",
     "experience": "5-10 Yrs",
     "location": "Kolkata",
-    "skills": []
+    "skills": ["Energy Trading", "Risk Management", "Financial Modeling", "Python", "SQL"]
   },
   {
     "jobTitle": "Junior Engineer (O & M -Hydro Power Plant)",
     "companyName": "Amunra Infratech",
     "experience": "4-9 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Hydro Power Plant Operations", "Maintenance", "Troubleshooting", "Safety Protocols", "SCADA"]
   },
   {
     "jobTitle": "Contact Center",
     "companyName": "Zensar",
     "experience": "2-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Customer Service", "Call Center Operations", "CRM Software", "Communication Skills", "Problem Solving"]
   },
   {
     "jobTitle": "Shift Engineer (O& M -Hydro Power Plant)",
     "companyName": "Amunra Infratech",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Hydro Power Plant Operations", "Maintenance", "Troubleshooting", "Safety Protocols", "SCADA"]
   },
   {
     "jobTitle": "Biostatistician II FSP",
     "companyName": "Cytel",
     "experience": "2-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Biostatistics", "SAS", "R", "Clinical Trials", "Data Analysis"]
   },
   {
     "jobTitle": "ReactJS Developer",
     "companyName": "Photon",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["ReactJS", "JavaScript", "HTML", "CSS", "Redux"]
   },
   {
     "jobTitle": "DIGITAL SECURITY - PLANVIEW",
     "companyName": "Zensar",
     "experience": "4-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Planview", "Digital Security", "Risk Management", "IT Security", "Project Management"]
   },
   {
     "jobTitle": "Marketing Program Specialist Remote",
     "companyName": "Akamai",
     "experience": "3-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Marketing Strategy", "Digital Marketing", "Campaign Management", "SEO", "Data Analysis"]
   },
   {
     "jobTitle": "DIGITAL SECURITY - IAM - SAILPOINT",
     "companyName": "Zensar",
     "experience": "5-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["SailPoint", "Identity and Access Management", "Cybersecurity", "Java", "LDAP"]
   },
   {
     "jobTitle": "Site Reliability Engineer (Rotational Shift) Remote",
     "companyName": "Akamai",
     "experience": "3-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Site Reliability Engineering", "Linux", "AWS", "Kubernetes", "Monitoring Tools"]
   },
   {
     "jobTitle": "iOS Developer",
     "companyName": "Photon",
     "experience": "3-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["iOS Development", "Swift", "Objective-C", "Xcode", "REST APIs"]
   },
   {
     "jobTitle": "Release Manager",
     "companyName": "Crisil",
     "experience": "5-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Release Management", "DevOps", "CI/CD", "JIRA", "Agile Methodology"]
   },
   {
     "jobTitle": "Senior KDB Developer",
     "companyName": "Crisil",
     "experience": "7-12 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["KDB", "Q Language", "Data Analysis", "Financial Markets", "Python"]
   },
   {
     "jobTitle": "AES - DE - DevOps - AWS DevOps",
     "companyName": "Zensar",
     "experience": "5-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["AWS", "DevOps", "CI/CD", "Terraform", "Docker"]
   },
   {
     "jobTitle": "MAWM- Java",
     "companyName": "Zensar",
     "experience": "5-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "Microservices", "REST APIs", "Hibernate"]
   },
   {
     "jobTitle": "Android Developer",
     "companyName": "Photon",
     "experience": "8-13 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Android Development", "Kotlin", "Java", "Android SDK", "REST APIs"]
   },
   {
     "jobTitle": "OS, Virtualization and Hardware",
     "companyName": "Zensar",
     "experience": "7-11 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Operating Systems", "Virtualization", "Hardware Troubleshooting", "Linux", "VMware"]
   },
   {
     "jobTitle": "Senior Software Engineer II",
     "companyName": "Akamai",
     "experience": "5-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Python", "Cloud Computing", "Microservices", "Agile Methodology"]
   },
   {
     "jobTitle": "Associate Lead Consultant - S/4 EWM Job",
     "companyName": "Yash Technologies",
     "experience": "6-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["SAP EWM", "Warehouse Management", "SAP S/4HANA", "Logistics", "Supply Chain"]
   },
   {
     "jobTitle": "Storage-Architecture & Design-MS Azure",
     "companyName": "Zensar",
     "experience": "7-11 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Azure Storage", "Cloud Architecture", "Data Management", "Azure DevOps", "Networking"]
   },
   {
     "jobTitle": "Site Reliability Engineer Senior",
     "companyName": "Akamai",
     "experience": "5-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Site Reliability Engineering", "Linux", "AWS", "Kubernetes", "Monitoring Tools"]
   },
   {
     "jobTitle": "Barista",
     "companyName": "Radisson Hotel Group",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Coffee Making", "Customer Service", "Beverage Preparation", "Cash Handling", "Menu Knowledge"]
   },
   {
     "jobTitle": "Executive Assistant",
     "companyName": "JPMorgan Chase Bank",
     "experience": "5-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Administrative Support", "Calendar Management", "Communication Skills", "Microsoft Office", "Event Planning"]
   },
   {
     "jobTitle": "Butler Manager",
     "companyName": "Marriott",
     "experience": "2-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Guest Services", "Hospitality Management", "Customer Service", "Team Leadership", "Event Coordination"]
   },
   {
     "jobTitle": "Product Support Manager",
     "companyName": "Isra Vison Ag",
     "experience": "3-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Product Support", "Customer Service", "Technical Troubleshooting", "CRM Software", "Team Management"]
   },
   {
     "jobTitle": "Business Analyst, Saleshelp",
     "companyName": "Oracle",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Business Analysis", "Data Analysis", "SQL", "Salesforce", "Requirement Gathering"]
   },
   {
     "jobTitle": "Director Food & Beverage",
     "companyName": "Marriott",
     "experience": "6-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Food & Beverage Management", "Hospitality", "Budgeting", "Team Leadership", "Customer Service"]
   },
   {
     "jobTitle": "AsstMgr-Human Resources",
     "companyName": "Marriott",
     "experience": "4-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["HR Management", "Recruitment", "Employee Relations", "Payroll", "Training & Development"]
   },
   {
     "jobTitle": "Talent Acquisition Lead",
     "companyName": "Wipro",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Kolkata, Hyderabad, Pune, Ahmedabad, Chennai, Bengaluru, Delhi / NCR, Mumbai (All Areas)",
-    "skills": []
+    "skills": ["Talent Acquisition", "Recruitment", "Employer Branding", "Interviewing", "HR Analytics"]
   },
   {
     "jobTitle": "Business Intelligence Analyst",
     "companyName": "Avery Dennison",
     "experience": "5-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Business Intelligence", "Data Analysis", "SQL", "Tableau", "Power BI"]
   },
   {
     "jobTitle": "Sales Manager",
     "companyName": "Marriott",
     "experience": "4-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Management", "Hospitality", "Customer Relationship Management", "Negotiation", "Revenue Management"]
   },
   {
     "jobTitle": "Multi Property Director of Marketing",
     "companyName": "Marriott",
     "experience": "10-12 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Marketing Strategy", "Brand Management", "Digital Marketing", "Event Planning", "Market Research"]
   },
   {
     "jobTitle": "Area Sales Manager",
     "companyName": "Isra Vison Ag",
     "experience": "10-12 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Management", "Business Development", "Customer Relationship Management", "Negotiation", "Market Analysis"]
   },
   {
     "jobTitle": "Talent Advisor - Recruiter (Contract To Hire)",
     "companyName": "Oracle",
     "experience": "5-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Recruitment", "Talent Acquisition", "Interviewing", "Employer Branding", "HR Analytics"]
   },
   {
     "jobTitle": "Software Developer 3",
     "companyName": "Oracle",
     "experience": "3-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Python", "SQL", "Agile Methodology", "REST APIs"]
   },
   {
     "jobTitle": "Software Developer 2",
     "companyName": "Oracle",
     "experience": "3-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Python", "SQL", "Agile Methodology", "REST APIs"]
   },
   {
     "jobTitle": "Principal Data Engineer",
     "companyName": "Oracle",
     "experience": "10-12 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Data Engineering", "Big Data", "Python", "SQL", "Cloud Computing"]
   },
   {
     "jobTitle": "Staff Engineer, Python Fullstack (React)",
     "companyName": "Nagarro",
     "experience": "7-12 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Python", "ReactJS", "JavaScript", "Fullstack Development", "REST APIs"]
   },
   {
     "jobTitle": "Software Development Snr Manager",
     "companyName": "Oracle",
     "experience": "7-9 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Team Leadership", "Agile Methodology", "Java", "Cloud Computing"]
   },
   {
     "jobTitle": "Software Developer 5",
     "companyName": "Oracle",
     "experience": "6-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Python", "SQL", "Agile Methodology", "REST APIs"]
   },
   {
     "jobTitle": "Operation Manager",
     "companyName": "Oracle",
     "experience": "10-15 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Operations Management", "Team Leadership", "Process Improvement", "Project Management", "Budgeting"]
   },
   {
     "jobTitle": "Events Associate",
     "companyName": "Marriott",
     "experience": "1-2 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Event Planning", "Customer Service", "Hospitality", "Coordination", "Communication Skills"]
   },
   {
     "jobTitle": "Front Desk Manager",
     "companyName": "Marriott",
     "experience": "2-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Front Desk Management", "Customer Service", "Hospitality", "Team Leadership", "Reservation Systems"]
   },
   {
     "jobTitle": "Senior Banking Consultant, Mt Lawley WA",
     "companyName": "ANZ",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Banking", "Customer Service", "Financial Products", "Sales", "Compliance"]
   },
   {
     "jobTitle": "Engineering Associate - Electrical",
     "companyName": "Marriott",
     "experience": "1-3 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Electrical Engineering", "Maintenance", "Troubleshooting", "Safety Protocols", "HVAC Systems"]
   },
   {
     "jobTitle": "Culinary-Associate",
     "companyName": "Marriott",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "F&B and Event Service Expert",
-    "companyName": "Marriott",
-    "experience": "1-4 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Assistant Manager- Food and Beverage Sales",
-    "companyName": "Marriott",
-    "experience": "4-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Risk Associate - Product Owner",
-    "companyName": "JPMorgan Chase Bank",
-    "experience": "5-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Sales Manager",
-    "companyName": "Marriott",
-    "experience": "2-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Assistant Manager - Banquets",
-    "companyName": "Marriott",
-    "experience": "4-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Talent Acquisition Manager",
-    "companyName": "Wipro",
-    "experience": "7-12 Yrs",
-    "location": "Hybrid - Kolkata, Hyderabad, Pune, Ahmedabad, Chennai, Bengaluru, Delhi / NCR, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Pastry Chef",
-    "companyName": "Marriott",
-    "experience": "4-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Manager, Content Maintenance",
-    "companyName": "Coursera",
-    "experience": "5-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Assistant Manager Purchasing",
-    "companyName": "Marriott",
-    "experience": "4-8 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Project Manager 3",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Director of Applied Science (OCI/GenAI)",
-    "companyName": "Oracle",
-    "experience": "16-20 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer 3",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Technical Analyst 4-Support",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle Fusion HCM Functional",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "ERPM Applications Technology Solutions Engineer (Presales)",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Supervisor, Maintenance",
-    "companyName": "Apotex",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior BA (SBA)",
-    "companyName": "Capco",
-    "experience": "3-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "PMO",
-    "companyName": "Capco",
-    "experience": "7-12 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Account Executive - Strategic sales",
-    "companyName": "Browserstack",
-    "experience": "2-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Deputy Manager Machining",
-    "companyName": "KSB",
-    "experience": "9-14 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Manager - Commercial Sales",
-    "companyName": "Browserstack",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Applications Developer",
-    "companyName": "Oracle",
-    "experience": "2-7 Yrs",
-    "location": "Mumbai, New Delhi, Hyderabad, Pune, Chennai, Ahmedabad, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Pump testing engineer",
-    "companyName": "KSB",
-    "experience": "6-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Software Engineer",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Customer Engineering Principal Engineer",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer 4",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer 4",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Snr Manager Applied Science (OCI/GenAI)",
-    "companyName": "Oracle",
-    "experience": "6-11 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle SaaS Technical/Functional Support Analyst (HCM)",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior PeopleSoft Technical Consultant",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Mumbai, New Delhi, Hyderabad, Pune, Chennai, Ahmedabad, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle SaaS Technical/Functional Analyst (HCM)",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Cloud Operation Engineer",
-    "companyName": "Oracle",
-    "experience": "8-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Cloud Operation Engineer",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Consultant",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer 4",
-    "companyName": "Oracle",
-    "experience": "8-12 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Front Office Supervisor",
-    "companyName": "Radisson Hotel Group",
-    "experience": "1-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Spa & Recreation Specialist",
-    "companyName": "Radisson Hotel Group",
-    "experience": "1-4 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Food and Beverage - GSA",
-    "companyName": "Marriott",
-    "experience": "1-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Culinary Arts", "Food Preparation", "Kitchen Safety", "Menu Planning", "Customer Service"]
   },
   {
     "jobTitle": "Front Office Assistant Manager",
     "companyName": "Radisson Hotel Group",
     "experience": "4-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Front Office Management", "Customer Service", "Team Leadership", "Hospitality"]
   },
   {
     "jobTitle": "Cook I",
     "companyName": "Radisson Hotel Group",
     "experience": "1-2 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Cooking", "Food Preparation", "Kitchen Safety", "Teamwork"]
   },
   {
     "jobTitle": "Maintenance Engineer",
     "companyName": "Radisson Hotel Group",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Maintenance", "Equipment Repair", "Safety Compliance", "Technical Troubleshooting"]
   },
   {
     "jobTitle": "Concierge Manager",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Concierge Services", "Customer Service", "Hospitality", "Team Leadership"]
   },
   {
     "jobTitle": "Purchasing Coordinator",
     "companyName": "Radisson Hotel Group",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Procurement", "Vendor Management", "Inventory Control", "Negotiation Skills"]
   },
   {
     "jobTitle": "Junior Sous Chef",
     "companyName": "Radisson Hotel Group",
     "experience": "10-15 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Culinary Arts", "Kitchen Management", "Menu Planning", "Food Safety"]
   },
   {
     "jobTitle": "Duty Manager",
     "companyName": "Marriott",
     "experience": "2-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Operations Management", "Customer Service", "Team Leadership", "Hospitality"]
   },
   {
     "jobTitle": "Training Executive",
     "companyName": "Marriott",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Training & Development", "Employee Engagement", "Communication Skills", "Hospitality"]
   },
   {
     "jobTitle": "Human Resources Executive",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["HR Management", "Recruitment", "Employee Relations", "Communication Skills"]
   },
   {
     "jobTitle": "Engineering Associate - HVAC",
     "companyName": "Marriott",
     "experience": "3-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["HVAC Systems", "Maintenance", "Technical Troubleshooting", "Safety Compliance"]
   },
   {
     "jobTitle": "Associate",
     "companyName": "KSB",
     "experience": "4-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Technical Support", "Data Analysis", "Project Coordination", "Communication Skills"]
   },
   {
     "jobTitle": "Assistant Manager - Engineering",
     "companyName": "Marriott",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Engineering Management", "Maintenance", "Team Leadership", "Safety Compliance"]
   },
   {
     "jobTitle": "Assistant Sales Manager",
     "companyName": "Marriott",
     "experience": "4-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Management", "Client Acquisition", "Negotiation Skills", "Customer Relationship Management"]
   },
   {
     "jobTitle": "Sales Manager",
     "companyName": "Marriott",
     "experience": "4-9 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Client Acquisition", "Revenue Management", "Team Leadership"]
   },
   {
     "jobTitle": "Engineering Manager",
     "companyName": "Marriott",
     "experience": "10-15 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Engineering Management", "Project Management", "Team Leadership", "Technical Expertise"]
   },
   {
     "jobTitle": "Human Resources Manager",
     "companyName": "Radisson Hotel Group",
     "experience": "8-12 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["HR Strategy", "Employee Relations", "Recruitment", "Compliance Management"]
   },
   {
     "jobTitle": "Network (System) Administrator",
     "companyName": "Icertis",
     "experience": "3-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Network Administration", "System Maintenance", "Troubleshooting", "Security Management"]
   },
   {
     "jobTitle": "Deputy Executive Housekeeper",
     "companyName": "Radisson Hotel Group",
     "experience": "3-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Housekeeping Management", "Team Leadership", "Hospitality", "Quality Assurance"]
   },
   {
     "jobTitle": "Maintenance Technician",
     "companyName": "Radisson Hotel Group",
     "experience": "2-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Maintenance", "Equipment Repair", "Safety Compliance", "Technical Troubleshooting"]
   },
   {
     "jobTitle": "Maintenance Engineer I",
     "companyName": "Radisson Hotel Group",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Maintenance", "Equipment Repair", "Safety Compliance", "Technical Troubleshooting"]
   },
   {
     "jobTitle": "Executive Housekeeper",
     "companyName": "Radisson Hotel Group",
     "experience": "13-19 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Housekeeping Management", "Team Leadership", "Hospitality", "Quality Assurance"]
   },
   {
     "jobTitle": "Sous Chef",
     "companyName": "Radisson Hotel Group",
     "experience": "10-15 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Culinary Arts", "Kitchen Management", "Menu Planning", "Food Safety"]
   },
   {
     "jobTitle": "Assistant Manager Restaurant",
     "companyName": "Marriott",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Restaurant Management", "Customer Service", "Team Leadership", "Hospitality"]
   },
   {
     "jobTitle": "Duty Manager",
     "companyName": "Marriott",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Operations Management", "Customer Service", "Team Leadership", "Hospitality"]
   },
   {
     "jobTitle": "Dairy Feed -Sales Officer Karj?l, India",
     "companyName": "Cargill",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales", "Customer Relationship Management", "Negotiation Skills", "Market Analysis"]
   },
   {
     "jobTitle": "Corporate Sales Manager",
     "companyName": "Radisson Hotel Group",
     "experience": "3-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Corporate Sales", "Client Acquisition", "Negotiation Skills", "Revenue Growth"]
   },
   {
     "jobTitle": "Senior Sales Manager(Proactive)",
     "companyName": "Marriott",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Client Acquisition", "Revenue Management", "Team Leadership"]
   },
   {
     "jobTitle": "Senior Sales Manager",
     "companyName": "Marriott",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Client Acquisition", "Revenue Management", "Team Leadership"]
   },
   {
     "jobTitle": "Sales Manager I",
     "companyName": "Radisson Hotel Group",
     "experience": "3-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Management", "Client Acquisition", "Negotiation Skills", "Revenue Growth"]
   },
   {
     "jobTitle": "Assistant Manager - Finance",
     "companyName": "Marriott",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Financial Management", "Budgeting", "Financial Reporting", "Compliance"]
   },
   {
     "jobTitle": "Assistant Chief Engineer",
     "companyName": "Radisson Hotel Group",
     "experience": "10-12 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Engineering Management", "Maintenance", "Team Leadership", "Safety Compliance"]
   },
   {
     "jobTitle": "BA Regulatory Reporting - Finreq",
     "companyName": "Capco",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Regulatory Reporting", "Financial Analysis", "Compliance", "Data Management"]
   },
   {
     "jobTitle": "Revenue Manager",
     "companyName": "Radisson Hotel Group",
     "experience": "8-13 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Revenue Management", "Financial Analysis", "Pricing Strategy", "Data Analysis"]
   },
   {
     "jobTitle": "Compensation Specialist - Global",
     "companyName": "Hitachi Digital Services",
     "experience": "5-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Compensation Management", "Payroll", "Compliance", "Data Analysis"]
   },
   {
     "jobTitle": "Customer Success Systems Analyst",
     "companyName": "Coursera",
     "experience": "3-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Customer Success", "Data Analysis", "System Management", "Client Support"]
   },
   {
     "jobTitle": "Sr Consultant Axiom",
     "companyName": "Capco",
     "experience": "5-9 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Consulting", "Axiom Software", "Financial Analysis", "Client Management"]
   },
   {
     "jobTitle": "GM- EcoCare Regional Deployment Leader",
     "companyName": "Schneider Electric",
     "experience": "10-15 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Project Management", "Sustainability", "Team Leadership", "Stakeholder Management"]
   },
   {
     "jobTitle": "Airport Representative",
     "companyName": "Marriott",
     "experience": "1-2 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Customer Service", "Hospitality", "Communication Skills", "Problem Solving"]
   },
   {
     "jobTitle": "Senior Investigator",
     "companyName": "Cummins",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Investigation", "Compliance", "Risk Management", "Analytical Skills"]
   },
   {
     "jobTitle": "Front Office Executive - AYS",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Front Office Management", "Customer Service", "Hospitality", "Communication Skills"]
   },
   {
     "jobTitle": "Guest Relations Executive - Front Office",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Guest Relations", "Customer Service", "Hospitality", "Problem Solving"]
   },
   {
     "jobTitle": "Assistant Executive Housekeeper",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Housekeeping Management", "Team Leadership", "Inventory Management", "Customer Service", "Quality Assurance"]
   },
   {
     "jobTitle": "Duty Manager",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Operations Management", "Customer Service", "Problem Solving", "Team Coordination", "Hospitality Management"]
   },
   {
     "jobTitle": "Coord-Human Resources",
     "companyName": "Marriott",
     "experience": "1-3 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Recruitment", "Employee Relations", "HR Policies", "Payroll Management", "Training and Development"]
   },
   {
     "jobTitle": "Executive Assistant To General Manager",
     "companyName": "Marriott",
     "experience": "2-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Administrative Support", "Calendar Management", "Communication Skills", "Document Preparation", "Event Coordination"]
   },
   {
     "jobTitle": "IT Executive",
     "companyName": "Marriott",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["IT Support", "Network Management", "Hardware Maintenance", "Software Installation", "Troubleshooting"]
   },
   {
     "jobTitle": "Chef de Partie - Asian",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Asian Cuisine", "Food Preparation", "Kitchen Management", "Menu Planning", "Quality Control"]
   },
   {
     "jobTitle": "Junior Sous Chef ( All Day Dinning )",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Culinary Arts", "Kitchen Operations", "Team Leadership", "Menu Development", "Food Safety Standards"]
   },
   {
     "jobTitle": "Sales Manager",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Client Relationship Management", "Negotiation", "Market Research", "Revenue Generation"]
   },
   {
     "jobTitle": "Loss Prevention Executive",
     "companyName": "Marriott",
     "experience": "4-9 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Risk Assessment", "Security Management", "Incident Investigation", "Surveillance Systems", "Compliance"]
   },
   {
     "jobTitle": "Chef de Partie - Bakery",
     "companyName": "Marriott",
     "experience": "3-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Bakery Operations", "Pastry Making", "Recipe Development", "Quality Control", "Team Collaboration"]
   },
   {
     "jobTitle": "Assistant Manager Sales - Social/Association",
     "companyName": "Marriott",
     "experience": "4-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Client Acquisition", "Event Planning", "Relationship Building", "Market Analysis"]
   },
   {
     "jobTitle": "Director of Quality",
     "companyName": "Marriott",
     "experience": "5-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Quality Assurance", "Process Improvement", "Compliance Management", "Auditing", "Team Leadership"]
   },
   {
     "jobTitle": "Treasury FOTC BA",
     "companyName": "Capco",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Financial Analysis", "Treasury Operations", "Risk Management", "Data Analysis", "Regulatory Compliance"]
   },
   {
     "jobTitle": "Chief Engineer",
     "companyName": "Marriott",
     "experience": "4-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Facilities Management", "Maintenance Operations", "Project Management", "Energy Efficiency", "Team Leadership"]
   },
   {
     "jobTitle": "Assistant Financial Controller / Assistant Director of Finance",
     "companyName": "Marriott",
     "experience": "4-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Financial Reporting", "Budgeting", "Auditing", "Tax Compliance", "Team Management"]
   },
   {
     "jobTitle": "Software Engineer 4 - L2/L3 Protocols Test and Automation Engineer",
     "companyName": "Juniper Networks",
     "experience": "9-13 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Networking Protocols", "Test Automation", "Python", "Linux", "Debugging"]
   },
   {
     "jobTitle": "Reservations Executive",
     "companyName": "Marriott",
     "experience": "1-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Reservation Systems", "Customer Service", "Booking Management", "Communication Skills", "Problem Solving"]
   },
   {
     "jobTitle": "AsstMgr-Restaurants",
     "companyName": "Marriott",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Restaurant Operations", "Customer Service", "Team Leadership", "Inventory Management", "Menu Planning"]
   },
   {
     "jobTitle": "Food & Beverage Controller - Executive",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Cost Control", "Inventory Management", "Financial Analysis", "Vendor Management", "Compliance"]
   },
   {
     "jobTitle": "Housekeeping Executive",
     "companyName": "Marriott",
     "experience": "2-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Housekeeping Operations", "Team Management", "Quality Standards", "Inventory Control", "Customer Service"]
   },
   {
     "jobTitle": "Guest Experience Expert",
     "companyName": "Marriott",
     "experience": "1-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Customer Service", "Problem Solving", "Communication Skills", "Hospitality Management", "Conflict Resolution"]
   },
   {
     "jobTitle": "Cook I",
     "companyName": "Marriott",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Food Preparation", "Kitchen Safety", "Recipe Execution", "Team Collaboration", "Time Management"]
   },
   {
     "jobTitle": "Executive Pastry Chef",
     "companyName": "Marriott",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Pastry Making", "Recipe Development", "Team Leadership", "Quality Control", "Menu Planning"]
   },
   {
     "jobTitle": "DCDP - South Indian",
     "companyName": "Marriott",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["South Indian Cuisine", "Food Preparation", "Kitchen Operations", "Team Collaboration", "Quality Standards"]
   },
   {
     "jobTitle": "Assistant Director of Events",
     "companyName": "Marriott",
     "experience": "3-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Event Planning", "Client Management", "Budgeting", "Team Coordination", "Vendor Management"]
   },
   {
     "jobTitle": "AsstMgr-Engineering",
     "companyName": "Marriott",
     "experience": "1-4 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Facilities Management", "Maintenance Operations", "Project Management", "Energy Efficiency", "Team Leadership"]
   },
   {
     "jobTitle": "Restaurant Manager",
     "companyName": "Marriott",
     "experience": "7-11 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Restaurant Operations", "Customer Service", "Team Leadership", "Financial Management", "Menu Planning"]
   },
   {
     "jobTitle": "Chef de Cuisine",
     "companyName": "Marriott",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Culinary Arts", "Menu Development", "Kitchen Management", "Quality Control", "Team Leadership"]
   },
   {
     "jobTitle": "Chef De Cuisine",
     "companyName": "Marriott",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Culinary Arts", "Menu Development", "Kitchen Management", "Quality Control", "Team Leadership"]
   },
   {
     "jobTitle": "Asst Sales Manager",
     "companyName": "Marriott",
     "experience": "2-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Client Relationship Management", "Negotiation", "Market Research", "Revenue Generation"]
   },
   {
     "jobTitle": "Quality Manager",
     "companyName": "Marriott",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Quality Assurance", "Process Improvement", "Compliance Management", "Auditing", "Team Leadership"]
   },
   {
     "jobTitle": "Associate Director of Sales (Mumbai based)",
     "companyName": "Marriott",
     "experience": "2-7 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Client Relationship Management", "Negotiation", "Market Research", "Revenue Generation"]
   },
   {
     "jobTitle": "Revenue Manager",
     "companyName": "Marriott",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Revenue Management", "Data Analysis", "Pricing Strategies", "Forecasting", "Team Collaboration"]
   },
   {
     "jobTitle": "Training Manager",
     "companyName": "Marriott",
     "experience": "7-11 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Training Program Development", "Employee Development", "Leadership Training", "Performance Evaluation", "Communication Skills"]
   },
   {
     "jobTitle": "Principal Software Developer",
     "companyName": "Oracle",
     "experience": "7-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "Microservices", "Agile Methodology"]
   },
   {
     "jobTitle": "Sr Cloud Manager - Delivery PPM Functional",
     "companyName": "Oracle",
     "experience": "10-15 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Cloud Computing", "Project Management", "PPM Tools", "Team Leadership", "Client Management"]
   },
   {
     "jobTitle": "SaaS HCM/SCM Techno-Functional Sr. Principal implementation Analyst",
     "companyName": "Oracle",
     "experience": "2-6 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["SaaS Implementation", "HCM", "SCM", "Techno-Functional Expertise", "Client Management"]
   },
   {
     "jobTitle": "Cloud AAC/Custom Security Consultant",
     "companyName": "Oracle",
     "experience": "4-9 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Cloud Security", "Access Control", "Custom Security Solutions", "Compliance", "Risk Management"]
   },
   {
     "jobTitle": "Consulting Project Snr Principal Consultant",
     "companyName": "Oracle",
     "experience": "3-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Consulting", "Project Management", "Client Engagement", "Problem Solving", "Strategic Planning"]
   },
   {
     "jobTitle": "OFSAA - Senior Business Consultant",
     "companyName": "Oracle",
     "experience": "3-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Financial Analytics", "OFSAA Tools", "Data Analysis", "Client Management", "Regulatory Compliance"]
   },
   {
     "jobTitle": "Software Developer 5",
     "companyName": "Oracle",
     "experience": "3-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "Microservices", "Agile Methodology"]
   },
   {
     "jobTitle": "Software Developer 5",
     "companyName": "Oracle",
     "experience": "3-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "Microservices", "Agile Methodology"]
   },
   {
     "jobTitle": "Senior Data Engineer, Data Platform, OAL",
     "companyName": "Oracle",
     "experience": "3-5 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Data Engineering", "Big Data", "SQL", "Python", "Data Warehousing"]
   },
   {
     "jobTitle": "Product Manager/Strategy 4-ProdDev",
     "companyName": "Oracle",
     "experience": "5-10 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Product Management", "Market Research", "Strategic Planning", "Product Development", "Go-to-Market Strategy"]
   },
   {
     "jobTitle": "Software Developer 3",
     "companyName": "Oracle",
     "experience": "3-8 Yrs",
     "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Data Engineer",
-    "companyName": "Oracle",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Data Engineer",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Consultant- Core Banking Java Microservices",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Member of technical Staff",
-    "companyName": "Oracle",
-    "experience": "5-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Integration Engineer - SOA and OIC",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "OFSAA - Senior Principal Consultant",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Software Developer",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer III",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Member of Technical Staff ML/AI",
-    "companyName": "Oracle",
-    "experience": "5-8 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Oracle Database Administrator",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal VBCS Engineer",
-    "companyName": "Oracle",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Consulting Solution Manager - Corporate Banking (Trade)",
-    "companyName": "Oracle",
-    "experience": "15-20 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "QA Analyst 3-ProdDev",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Program Manager 2-ProdDev",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cloud Consultant - Finance/PPM Functional",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Cloud Consultant - Cloud Finance/PPM Functional",
-    "companyName": "Oracle",
-    "experience": "5-8 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle Fusion Finance Functional Consultant",
-    "companyName": "Oracle",
-    "experience": "2-6 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Business Analyst (Retail Banking)",
-    "companyName": "Oracle",
-    "experience": "5-8 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer 3",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Master Principal Sales Solution Consultant - ERP Finance",
-    "companyName": "Oracle",
-    "experience": "6-11 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Core banking -Consulting Solution Manager",
-    "companyName": "Oracle",
-    "experience": "15-20 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Network Developer 4",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Master Principal Sales Solution Consultant - SCM",
-    "companyName": "Oracle",
-    "experience": "14-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Production Service Systems Administrator",
-    "companyName": "Oracle",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Sales Consultant OFSS - Payments",
-    "companyName": "Oracle",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Consultant- eBusiness Suite Finance Consultant",
-    "companyName": "Oracle",
-    "experience": "6-8 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Consultant",
-    "companyName": "Oracle",
-    "experience": "5-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Software Developer",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Consulting Member of Technical Staff",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sr Cloud Manager - Delivery FIN Functional",
-    "companyName": "Oracle",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Software Developer",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer 2",
-    "companyName": "Oracle",
-    "experience": "1-3 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Network Developer 4 - Ai2 Network Operations (RDMA)",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle Fusion SCM Sr Functional Consultant",
-    "companyName": "Oracle",
-    "experience": "4-7 Yrs",
-    "location": "Hybrid - Gandhinagar, Gujarat, Hyderabad/Secunderabad, Bangalore/Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Developer",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle Health Insurance Implementation Consultant",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "DevOps Engineer",
-    "companyName": "Oracle",
-    "experience": "3-5 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Core Banking Functional Consultant",
-    "companyName": "Oracle",
-    "experience": "3-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Cloud Solution Architect",
-    "companyName": "Oracle",
-    "experience": "13-17 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "OFSAA Senior Consultant",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "GCP Cloud Engineer / Senior Engineer",
-    "companyName": "Fractal Analytics",
-    "experience": "6-12 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Architect/Lead/Consultant-Fusion Functional ERP (PPM, Risk,Financials)",
-    "companyName": "Oracle",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Full Stack Developer PLSQL / Java",
-    "companyName": "Oracle",
-    "experience": "7-11 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cloud Oracle DBA - Exadata",
-    "companyName": "Oracle",
-    "experience": "8-12 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Software Developer",
-    "companyName": "Oracle",
-    "experience": "8-16 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Development Snr Manager",
-    "companyName": "Oracle",
-    "experience": "10-15 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Software Engineer",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle Health Insurance Senior Functional Consultant",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Consulting Solution Manager-Core Banking",
-    "companyName": "Oracle",
-    "experience": "10-13 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle SCM Functional specialist",
-    "companyName": "Oracle",
-    "experience": "8-13 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Applications Engineer",
-    "companyName": "Oracle",
-    "experience": "8-12 Yrs",
-    "location": "Mumbai, New Delhi, Hyderabad, Pune, Chennai, Ahmedabad, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Associate, US Payroll",
-    "companyName": "JPMorgan Chase Bank",
-    "experience": "4-11 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "SAC Planning Consultant",
-    "companyName": "A.P. Moller Maersk",
-    "experience": "6-10 Yrs",
-    "location": "Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Client Services Associate",
-    "companyName": "JPMorgan Chase Bank",
-    "experience": "3-7 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Director Finance - Mult Property",
-    "companyName": "Marriott",
-    "experience": "2-6 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Gen AI Data Scientist - GenAI",
-    "companyName": "Fractal Analytics",
-    "experience": "1-7 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Data Engineer",
-    "companyName": "Fractal Analytics",
-    "experience": "1-7 Yrs",
-    "location": "Noida, Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Lead Product Security Engineer",
-    "companyName": "Baker Hughes",
-    "experience": "6-10 Yrs",
-    "location": "Mumbai, Hyderabad, Pune, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Node Js Developer",
-    "companyName": "Capgemini",
-    "experience": "6-9 Yrs",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal/Lead Data Scientist",
-    "companyName": "Fractal Analytics",
-    "experience": "11-15 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Product Manager/Strategy",
-    "companyName": "Oracle",
-    "experience": "5-8 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sr. Technical Project Manager",
-    "companyName": "Oracle",
-    "experience": "7-9 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Return To Career - India",
-    "companyName": "Baker Hughes",
-    "experience": "12-20 Yrs",
-    "location": "Mumbai, Pune, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Full stack Developer (Java+React)",
-    "companyName": "Fractal Analytics",
-    "experience": "4-7 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "GCP Engineer",
-    "companyName": "Fractal Analytics",
-    "experience": "5-10 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Consultant",
-    "companyName": "Fractal Analytics",
-    "experience": "9-14 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Oracle Analytics Cloud + Power BI",
-    "companyName": "Fractal Analytics",
-    "experience": "4-8 Yrs",
-    "location": "Noida, Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Architect/ Principal Architect - Full Stack",
-    "companyName": "Fractal Analytics",
-    "experience": "13-17 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Architect",
-    "companyName": "Fractal Analytics",
-    "experience": "9-18 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Architect - Mlops",
-    "companyName": "Fractal Analytics",
-    "experience": "10-14 Yrs",
-    "location": "Mumbai, Pune, Chennai, Gurugram, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Development Snr Manager",
-    "companyName": "Oracle",
-    "experience": "8-12 Yrs",
-    "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Talent Acquisition-Senior Executive (Airoli, Pune, Gurgaon)",
-    "companyName": "Wipro",
-    "experience": "2-6 Yrs",
-    "location": "Navi Mumbai, Pune, Gurugram",
-    "skills": []
-  },
-  {
-    "jobTitle": "Team Leader - Operations",
-    "companyName": "Startek",
-    "experience": "3-6 Yrs",
-    "location": "Rupa, Mumbai, Navi Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Team Leader - Operations",
-    "companyName": "Startek",
-    "experience": "3-6 Yrs",
-    "location": "Rupa, Mumbai, Navi Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Instructor Design",
-    "companyName": "Hurix",
-    "experience": "5-10 Yrs",
-    "location": "Hybrid - Pune, Chennai, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Stress Testing (Murex)",
-    "companyName": "Crisil",
-    "experience": "5-9 Yrs",
-    "location": "Noida, Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Principal Enterprise Architect",
-    "companyName": "Baker Hughes",
-    "experience": "18-20 Yrs",
-    "location": "Kochi, Mumbai, Pune, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Technical Lead - Android and IOS Developer",
-    "companyName": "Citiustech",
-    "experience": "5-8 Yrs",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Control M Administrator",
-    "companyName": "Capgemini",
-    "experience": "8-11 Yrs",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Azure Sentinel Engineer",
-    "companyName": "Capgemini",
-    "experience": "6-8 Yrs",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Third Party Risk Management",
-    "companyName": "Capgemini",
-    "experience": "6-8 Yrs",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "PLSQL Developer-AB-Pan India",
-    "companyName": "Infosys",
-    "experience": "3-8 Yrs",
-    "location": "Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Hyperion/PBCS Consultant-NetSuite(Night Shift)",
-    "companyName": "Oracle",
-    "experience": "6-11 Yrs",
-    "location": "Hybrid - Hyderabad/Secunderabad, Bangalore/Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Firmware Engineer",
-    "companyName": "Integrity Technologies And Services",
-    "experience": "6-9 Yrs",
-    "location": "Mumbai, Pune, Mysuru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Core Java Sr Developer",
-    "companyName": "Oracle",
-    "experience": "6-11 Yrs",
-    "location": "Hyderabad/ Secunderabad, Bangalore/ Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Data Engineer",
-    "companyName": "Xoriant",
-    "experience": "6-10 Yrs",
-    "location": "Hybrid - Mumbai, Pune, Gurugram",
-    "skills": []
-  },
-  {
-    "jobTitle": "Genpact Hiring For Azure Synapse",
-    "companyName": "Genpact",
-    "experience": "5-10 Yrs",
-    "location": "Hybrid - Hyderabad/Secunderabad, Bangalore/Bengaluru, Delhi / NCR",
-    "skills": []
-  },
-  {
-    "jobTitle": "Genpact Hiring For Data Stewards Engineer - Microsoft Purview, M365",
-    "companyName": "Genpact",
-    "experience": "5-10 Yrs",
-    "location": "Hybrid - Hyderabad/Secunderabad, Bangalore/Bengaluru, Delhi / NCR",
-    "skills": []
-  },
-  {
-    "jobTitle": "Genpact Hiring For Databricks AWS",
-    "companyName": "Genpact",
-    "experience": "5-10 Yrs",
-    "location": "Hybrid - Hyderabad/Secunderabad, Bangalore/Bengaluru, Delhi / NCR",
-    "skills": []
-  },
-  {
-    "jobTitle": "Azure + Java",
-    "companyName": "Capgemini",
-    "experience": "7-12 Yrs",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sap Pp Functional Consultant",
-    "companyName": "Capgemini",
-    "experience": "9-13 Yrs",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Business Development Executive/ Manager",
-    "companyName": "Wipro",
-    "experience": "0-5 Yrs",
-    "location": "Bhopal, Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Hiring For International Voice Process - Mumbai and Pune Location",
-    "companyName": "Jio",
-    "experience": "1-5 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Assistant Manager - Debt Management Services - The Wheels",
-    "companyName": "Bajaj Finserv Ltd.",
-    "experience": "0-2 Yrs",
-    "location": "Mumbai, Mohali, Basti, New Delhi, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Relationship Manager - Emerging Enterprise Group",
-    "companyName": "Hdfc Bank",
-    "experience": "3-8 Yrs",
-    "location": "Pune, Satara, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Background Verification Analyst",
-    "companyName": "KPMG Assurance and Consulting Services LLP",
-    "experience": "1-5 Yrs",
-    "location": "Pune, Delhi / NCR, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Banquets Executive",
-    "companyName": "Marriott",
-    "experience": "1-5 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Junior Engineer",
-    "companyName": "Hindalco Industries",
-    "experience": "1-3 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Motor Agency - Unit Sales Manager",
-    "companyName": "ICICI Lombard",
-    "experience": "2-7 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Assistant Manager",
-    "companyName": "Hindalco Industries",
-    "experience": "2-4 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sales Engineer-Pune,Mumbai,Nasik",
-    "companyName": "Reputed client",
-    "experience": "1-4 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Work Search Analyst India",
-    "companyName": "TELUS Digital AI Data Solutions",
-    "experience": "2-6 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Urgent Requirement: MHT CET Faculty - Aakash Institute (Maharashtra)",
-    "companyName": "Aakash Educational Services (AESL)",
-    "experience": "2-7 Yrs",
-    "location": "Pune, Latur, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Opening For Area Sales Head Direct Sales In Life Insurance",
-    "companyName": "Mahalaxmi Global Solutions",
-    "experience": "5-10 Yrs",
-    "location": "Pune, Ahmedabad, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Conversion Rate Optimisation Developer - Remote",
-    "companyName": "Team Plus Staffing Solution",
-    "experience": "4-9 Yrs",
-    "location": "Pune, Delhi / NCR, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Genpact Hiring For Azure Databricks",
-    "companyName": "Genpact",
-    "experience": "5-10 Yrs",
-    "location": "Hybrid - Hyderabad/Secunderabad, Bangalore/Bengaluru, Delhi / NCR",
-    "skills": []
-  },
-  {
-    "jobTitle": "Genpact Hiring For Databricks Architect",
-    "companyName": "Genpact",
-    "experience": "9-14 Yrs",
-    "location": "Hybrid - Hyderabad/Secunderabad, Bangalore/Bengaluru, Delhi / NCR",
-    "skills": []
-  },
-  {
-    "jobTitle": "Application Lead",
-    "companyName": "Accenture",
-    "experience": "5-10 Yrs",
-    "location": "Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Application Lead",
-    "companyName": "Accenture",
-    "experience": "5-10 Yrs",
-    "location": "Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Application Lead",
-    "companyName": "Accenture",
-    "experience": "5-10 Yrs",
-    "location": "Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sr Frontend Developer",
-    "companyName": "Zensar",
-    "experience": "5-10 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Reliance Jio Hiring For Social Media Process WFH- Contact HR Vaishnavi",
-    "companyName": "Jio",
-    "experience": "1-5 Yrs",
-    "location": "Hybrid - New Delhi, Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "WFH Advisor Social Media Reliance Jio",
-    "companyName": "Jio",
-    "experience": "1-6 Yrs",
-    "location": "Hybrid - New Delhi, Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Retail Leasing / Property Aquisition",
-    "companyName": "Starbucks",
-    "experience": "1-6 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sales Manager - Mumbai and Pune",
-    "companyName": "Swiggy",
-    "experience": "1-6 Yrs",
-    "location": "Mumbai, Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Urgent Hiring // Key Account Manager // Mumbai & Pune // CARS24",
-    "companyName": "Cars24",
-    "experience": "2-7 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "MGR (TECHNICAL SUPPORT - UB)",
-    "companyName": "Bajaj Auto",
-    "experience": "3-6 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Income Auditor",
-    "companyName": "Marriott",
-    "experience": "1-3 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Analyst - Paralegal",
-    "companyName": "UPL Limited",
-    "experience": "2-7 Yrs",
-    "location": "Nagpur, Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "MGR (CONTENT & ORM - CMU)",
-    "companyName": "Bajaj Auto",
-    "experience": "2-6 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "MGR (SECURITY) 1",
-    "companyName": "Bajaj Auto",
-    "experience": "10-15 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "MGR (SERVICE UB) - MH1",
-    "companyName": "Bajaj Auto",
-    "experience": "2-7 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cinema Manager / Cinema General Manager",
-    "companyName": "PVR Cinemas",
-    "experience": "8-10 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Project Manager - Digital - Spares",
-    "companyName": "Bajaj Auto",
-    "experience": "2-8 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Urgent Hiring For Sr. Process Trainer",
-    "companyName": "Tech Mahindra",
-    "experience": "4-8 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Systems Executive",
-    "companyName": "Marriott",
-    "experience": "6-7 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Purchase Officer",
-    "companyName": "Real estate",
-    "experience": "5-7 Yrs",
-    "location": "Pune, Mumbai (All Areas)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Technical Product Manager",
-    "companyName": "Baker Hughes",
-    "experience": "12-14 Yrs",
-    "location": "Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Golang Developer",
-    "companyName": "Baker Hughes",
-    "experience": "4-9 Yrs",
-    "location": "Mumbai, Pune",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Development Manager, FinAuto",
-    "companyName": "Amazon",
-    "experience": "8-13 Yrs",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Aurangabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Business Architect",
-    "companyName": "Accenture",
-    "experience": "7-12 Yrs",
-    "location": "Mumbai, Pune",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "Microservices", "Agile Methodology"]
   }
 ]
