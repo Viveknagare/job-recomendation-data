@@ -2829,1142 +2829,603 @@
     "location": "N/A",
     "skills": ["Java", "Spring Boot", "React", "Microservices", "REST"]
   },
-  {
+ {
     "jobTitle": "Java Developer",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring", "Hibernate", "SQL", "REST APIs", "Microservices", "Agile"]
   },
   {
     "jobTitle": "Face To face Interview For Angular Developers - Cognizant",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Angular", "JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "REST APIs", "RxJS"]
   },
   {
     "jobTitle": "Face To Face Interview For Dotnet Developers - Cognizant!",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": [".NET", "C#", "ASP.NET", "SQL Server", "MVC", "Web APIs", "Azure", "Entity Framework"]
   },
   {
     "jobTitle": "Face To Face Interview For Reactjs Developers - Cognizant!!",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["React.js", "JavaScript", "TypeScript", "HTML", "CSS", "Redux", "Node.js", "Webpack", "Git"]
   },
   {
     "jobTitle": "Face To Face Interview For Java Developers with AWS!!!",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "AWS (EC2, S3, Lambda)", "Spring Boot", "Microservices", "Cloud Architecture"]
   },
   {
     "jobTitle": "Face To Face Interview For Java Full Stack developers!",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "React.js", "Angular", "JavaScript", "SQL", "RESTful APIs", "AWS", "Microservices"]
   },
   {
     "jobTitle": "Angular Developer",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Angular", "TypeScript", "HTML", "CSS", "JavaScript", "Node.js", "RxJS", "REST APIs", "Git"]
   },
   {
     "jobTitle": "Face To face Interview with Cognizant - Java Developers!",
     "companyName": "Cognizant",
     "experience": "5-10 Yrs",
     "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "SQL", "Hibernate", "Microservices", "RESTful APIs", "Agile"]
   },
   {
     "jobTitle": "Hurry Up!!! Huge openings For Freshers # Google, Facebook, Apple etc",
     "companyName": "MNC Group",
     "experience": "0 Yrs",
     "location": "Hybrid - Hyderabad(Hi Tech City), Bengaluru",
-    "skills": []
+    "skills": ["Java", "Python", "JavaScript", "SQL", "C++", "HTML", "CSS", "Cloud Computing"]
   },
   {
     "jobTitle": "Environment Sustainability @ Bengaluru",
     "companyName": "Shahi",
     "experience": "0-1 Yrs",
     "location": "Bangalore/Bengaluru(Arekere +1)",
-    "skills": []
+    "skills": ["Sustainability Practices", "Environmental Science", "Reporting", "Data Analysis", "Project Management"]
   },
   {
     "jobTitle": "Sales Training Officer",
     "companyName": "Ather Energy",
     "experience": "3-8 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Sales Strategy", "Training", "Salesforce", "Customer Relationship Management (CRM)", "Leadership"]
   },
   {
     "jobTitle": "Associate Medical Data Review Manager",
     "companyName": "IQVIA",
     "experience": "2-7 Yrs",
     "location": "Thane, Bengaluru",
-    "skills": []
+    "skills": ["Medical Data Review", "Clinical Data Management", "Pharmaceutical Industry", "Regulatory Compliance", "Data Analysis"]
   },
   {
     "jobTitle": "Java Developer",
     "companyName": "HCLTech",
     "experience": "5-8 Yrs",
     "location": "Hybrid - Noida, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring", "Hibernate", "SQL", "REST APIs", "Microservices", "Agile"]
   },
   {
     "jobTitle": "SQL Data Analyst - Bangalore/Gurgaon",
     "companyName": "Acuity Knowledge Partners",
     "experience": "3-6 Yrs",
     "location": "Hybrid - Gurugram, Bengaluru",
-    "skills": []
+    "skills": ["SQL", "Data Analysis", "Data Warehousing", "ETL", "Power BI", "Excel"]
   },
   {
     "jobTitle": "Lead PL/SQL Developer",
     "companyName": "Conduent",
     "experience": "7-9 Yrs",
     "location": "Hybrid - Hyderabad, Bengaluru",
-    "skills": []
+    "skills": ["PL/SQL", "Oracle", "Database Design", "SQL", "Stored Procedures", "ETL"]
   },
   {
     "jobTitle": "Java Full Stack Developer",
     "companyName": "Wipro",
     "experience": "5-7 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "React.js", "Node.js", "HTML", "CSS", "JavaScript", "Microservices", "AWS"]
   },
   {
     "jobTitle": "Advanced Embedded Engr",
     "companyName": "Honeywell",
     "experience": "5-10 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Embedded Systems", "C", "C++", "RTOS", "Microcontrollers", "Hardware Integration", "Debugging"]
   },
   {
     "jobTitle": "Sap FICO Consultant",
     "companyName": "Infosys",
     "experience": "3-8 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["SAP FICO", "SAP ERP", "Financial Accounting", "Controlling", "SAP S/4HANA", "Process Optimization"]
   },
   {
     "jobTitle": "Advanced Software Engr",
     "companyName": "Honeywell",
     "experience": "5-10 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Software Engineering", "C/C++", "Embedded Systems", "RTOS", "Linux", "Debugging", "Version Control"]
   },
   {
     "jobTitle": "Java Full Stack Developer",
     "companyName": "HCLTech",
     "experience": "5-10 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "React.js", "Node.js", "HTML", "CSS", "Microservices", "AWS", "SQL"]
   },
   {
     "jobTitle": "Cognizant - Face To Face -Java Developers",
     "companyName": "Cognizant",
     "experience": "4-9 Yrs",
     "location": "Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring", "Hibernate", "SQL", "Microservices", "REST APIs"]
   },
   {
     "jobTitle": "HCL Hiring For Java Spring boot role",
     "companyName": "HCLTech",
     "experience": "4-7 Yrs",
     "location": "Hybrid - Noida, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "Microservices", "AWS", "SQL", "Hibernate"]
   },
   {
     "jobTitle": "Cognizant Hiring- Face To Face Interview- .Net FSD developers",
     "companyName": "Cognizant",
     "experience": "6-9 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": [".NET", "C#", "ASP.NET", "MVC", "Web APIs", "SQL Server", "Angular"]
   },
   {
     "jobTitle": "HCL TECH Hiring For Java Full Stack Developer - Pan India Location",
     "companyName": "HCLTech",
     "experience": "5-8 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "React.js", "Node.js", "Microservices", "SQL", "AWS"]
   },
   {
     "jobTitle": "Sr Advanced Software Engr",
     "companyName": "Honeywell",
     "experience": "9-12 Yrs",
     "location": "Greater Noida, Bengaluru",
-    "skills": []
+    "skills": ["Embedded Systems", "C/C++", "RTOS", "Software Design", "Linux", "Debugging"]
   },
   {
     "jobTitle": "Java Developers",
     "companyName": "Cognizant",
-    "experience": "6-11 Yrs",
-    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "experience": "5-8 Yrs",
+    "location": "Hybrid - Hyderabad, Bengaluru, Chennai",
+    "skills": ["Java", "Spring", "Hibernate", "SQL", "Microservices", "REST APIs", "Agile"]
   },
-  {
+   {
     "jobTitle": "Job opportunity For Java Fullstack Developer",
     "companyName": "Cognizant",
     "experience": "6-11 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["Java", "Spring Boot", "Microservices", "React.js", "Angular", "REST APIs", "SQL", "AWS"]
   },
   {
     "jobTitle": "Sap Co Consultant",
     "companyName": "NTT DATA BUSINESS SOLUTIONS",
     "experience": "7-12 Yrs",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "skills": []
+    "skills": ["SAP CO", "SAP FICO", "SAP S/4HANA", "Financial Accounting", "Cost Center Accounting", "Profitability Analysis"]
   },
   {
     "jobTitle": "Associate Property Delivery Specialist",
     "companyName": "Tesco",
     "experience": "0-2 Yrs",
     "location": "Bangalore/Bengaluru(Whitefield)",
-    "skills": []
+    "skills": ["Property Management", "Real Estate", "Project Coordination", "Stakeholder Management"]
   },
   {
     "jobTitle": "Content Moderator- (HR Sukalpa)",
     "companyName": "Wipro",
     "experience": "0-1 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Content Moderation", "Social Media", "Community Guidelines", "Data Analysis"]
   },
   {
     "jobTitle": "Hdfc Bank, Collection Manager- Flows Bangalore",
     "companyName": "Hdfc Bank",
     "experience": "3-8 Yrs",
     "location": "Bengaluru(Hebbal)",
-    "skills": []
+    "skills": ["Debt Collection", "Loan Recovery", "Banking Operations", "Customer Relationship Management"]
   },
   {
     "jobTitle": "Fund Analyst (Marketing Collaterals)",
     "companyName": "Acuity Knowledge Partners",
     "experience": "2-4 Yrs",
     "location": "Hybrid - Bangalore Rural",
-    "skills": []
+    "skills": ["Fund Analysis", "Financial Research", "Marketing Collaterals", "Investment Banking"]
   },
   {
     "jobTitle": "Hiring For Relationship Manager",
     "companyName": "C Krishniah Chetty And Sons",
     "experience": "1-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Client Relationship Management", "Sales", "Customer Service", "Jewelry Industry Knowledge"]
   },
   {
     "jobTitle": "Job Opening For Erector - Bangalore",
     "companyName": "Kone",
     "experience": "1-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Elevator Installation", "Construction", "Safety Standards", "Mechanical Engineering"]
   },
   {
     "jobTitle": "S&C Global Network - AI - Hi Tech - Data Science Sr. Analyst",
     "companyName": "Accenture",
     "experience": "2-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Data Science", "Machine Learning", "Python", "AI", "Big Data", "Statistical Modeling"]
   },
   {
     "jobTitle": "Principal Change Analyst",
     "companyName": "Deutsche Bank",
     "experience": "10-12 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Change Management", "Project Management", "Stakeholder Engagement", "Business Transformation"]
   },
   {
     "jobTitle": "GN - SONG - C&S - CPQ - Manager",
     "companyName": "Accenture",
     "experience": "2-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["CPQ", "Salesforce", "Pricing Strategies", "Business Process Optimization"]
   },
   {
     "jobTitle": "Ind & Func Decision Science Specialist",
     "companyName": "Accenture",
     "experience": "2-4 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Decision Science", "Data Analytics", "Predictive Modeling", "Business Intelligence"]
   },
   {
     "jobTitle": "GN Industry Retail SAP Consultant",
     "companyName": "Accenture",
     "experience": "2-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["SAP Retail", "SAP IS-Retail", "Business Process Consulting", "ERP Implementation"]
   },
   {
     "jobTitle": "Payroll Operations Associate",
     "companyName": "Accenture",
     "experience": "3-8 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Payroll Processing", "HR Operations", "SAP HR", "Compliance Management"]
   },
   {
     "jobTitle": "GN - Industry - MC- Capital Markets- Manager",
     "companyName": "Accenture",
     "experience": "11-15 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Capital Markets", "Investment Banking", "Financial Modeling", "Risk Management"]
   },
   {
     "jobTitle": "CTS Associate Manager",
     "companyName": "Accenture",
     "experience": "10-15 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Service Management", "Cloud Services", "Infrastructure Management", "DevOps"]
   },
   {
     "jobTitle": "CTS Manager",
     "companyName": "Accenture",
     "experience": "12-14 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Infrastructure", "Cloud Computing", "Service Delivery", "Project Management"]
   },
   {
     "jobTitle": "Fabric Development Manager",
     "companyName": "IBM",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Textile Engineering", "Fabric Development", "Supply Chain Management", "Quality Assurance"]
   },
   {
     "jobTitle": "GN - Industry - Energy Platform Manager",
     "companyName": "Accenture",
     "experience": "5-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Energy Sector", "Platform Management", "Digital Transformation", "Renewable Energy"]
   },
   {
     "jobTitle": "CTS Manager",
     "companyName": "Accenture",
     "experience": "12-16 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Operations", "Cloud Services", "Service Delivery", "Infrastructure Management"]
   },
   {
     "jobTitle": "GN - Tech Strategy & Advisory - Artificial intelligence - Consultant",
     "companyName": "Accenture",
     "experience": "4-9 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["AI Strategy", "Machine Learning", "Data Analytics", "Digital Transformation"]
   },
   {
     "jobTitle": "GN - SONG - Service - Business Process Transformation - Senior Manager",
     "companyName": "Accenture",
     "experience": "12-17 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Business Process Reengineering", "Digital Transformation", "Change Management", "Consulting"]
   },
   {
     "jobTitle": "Testing Trained Apprentice",
     "companyName": "CGI",
     "experience": "0-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Testing", "Manual Testing", "Automation Testing", "QA Processes"]
   },
   {
     "jobTitle": "Contact Centre Service Consultant",
     "companyName": "ANZ",
     "experience": "1-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Customer Service", "Call Center Operations", "CRM Tools", "Problem Solving"]
   },
   {
     "jobTitle": "S&C Global Network - AI - Healthcare Analytics - Analyst",
     "companyName": "Accenture",
     "experience": "2-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Healthcare Analytics", "Data Science", "Machine Learning", "Predictive Modeling"]
   },
   {
     "jobTitle": "Accountant",
     "companyName": "Caterpillar Inc",
     "experience": "7-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Financial Reporting", "General Ledger", "Taxation", "SAP FICO"]
   },
   {
     "jobTitle": "Accountant",
     "companyName": "Caterpillar Inc",
     "experience": "7-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Financial Reporting", "General Ledger", "Taxation", "SAP FICO"]
   },
   {
     "jobTitle": "SENIOR MANAGER, TECHNOLOGY SUPPORT",
     "companyName": "Walmart",
     "experience": "6-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Support", "Infrastructure Management", "Service Delivery", "Project Management"]
   },
   {
     "jobTitle": "Software Engineer 2",
     "companyName": "Dell Technologies",
     "experience": "2-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Java", "Python", "Cloud Computing", "DevOps", "Agile Methodology"]
   },
   {
     "jobTitle": "Analyst - Talent Engagement",
     "companyName": "Diageo",
     "experience": "4-8 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Talent Management", "HR Analytics", "Employee Engagement", "Recruitment"]
   },
   {
     "jobTitle": "CTS Associate Manager",
     "companyName": "Accenture",
     "experience": "3-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Service Management", "Cloud Services", "Infrastructure Management", "DevOps"]
   },
   {
     "jobTitle": "Finance Manager - RTR (CA mandate)",
     "companyName": "Visa",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Record to Report", "Financial Accounting", "Compliance", "SAP"]
   },
   {
     "jobTitle": "Senior Engineer",
     "companyName": "Deutsche Bank",
     "experience": "14-20 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "DevOps"]
   },
   {
     "jobTitle": "CTS Manager",
     "companyName": "Accenture",
     "experience": "12-16 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Infrastructure", "Cloud Computing", "Service Delivery", "Project Management"]
   },
   {
     "jobTitle": "Senior Lead Software Engineer",
     "companyName": "John Deere",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "DevOps"]
   },
   {
     "jobTitle": "ABAP Developer",
     "companyName": "SAP",
     "experience": "4-7 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["ABAP", "SAP Fiori", "SAP HANA", "SAP ERP"]
   },
   {
     "jobTitle": "AGM - Software Engineering",
     "companyName": "John Deere",
     "experience": "12-16 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "DevOps"]
   },
   {
     "jobTitle": "Senior Lead Software Engineer",
     "companyName": "John Deere",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "DevOps"]
   },
   {
     "jobTitle": "Senior Lead Software Engineer",
     "companyName": "John Deere",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "DevOps"]
   },
   {
     "jobTitle": "Senior Lead Software Engineer",
     "companyName": "John Deere",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Software Development", "Java", "Cloud Computing", "DevOps"]
   },
   {
     "jobTitle": "CTS Associate Manager",
     "companyName": "Accenture",
     "experience": "10-14 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Service Management", "Cloud Services", "Infrastructure Management", "DevOps"]
   },
   {
     "jobTitle": "CTS Manager",
     "companyName": "Accenture",
     "experience": "12-16 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Infrastructure", "Cloud Computing", "Service Delivery", "Project Management"]
   },
   {
     "jobTitle": "Accounting Services Analyst II",
     "companyName": "Conduent",
     "experience": "1-8 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Accounting", "Financial Reporting", "General Ledger", "SAP"]
   },
   {
     "jobTitle": "Process Assistant, BLR4",
     "companyName": "Amazon",
     "experience": "3-9 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Process Improvement", "Data Analysis", "Operations Management", "Supply Chain"]
   },
   {
     "jobTitle": "Category Manager, Lawn and Garden, Lawn and Garden",
     "companyName": "Amazon",
     "experience": "2-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Category Management", "Retail", "Supply Chain", "Market Analysis"]
   },
   {
     "jobTitle": "Finance Operation Admin I",
     "companyName": "Watson Pharama",
     "experience": "2-7 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Financial Operations", "Accounting", "SAP", "Compliance"]
   },
   {
     "jobTitle": "JDS Production Support",
     "companyName": "Capco",
     "experience": "7-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Production Support", "Java", "SQL", "Incident Management"]
   },
   {
     "jobTitle": "Executive - HoReCa / Institutional sales",
     "companyName": "HERITAGE FOODS LIMITED",
     "experience": "3-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Sales", "Customer Relationship Management", "FMCG", "Institutional Sales"]
   },
   {
     "jobTitle": "FAAS- Insurance Manager",
     "companyName": "EY",
     "experience": "6-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Insurance", "Financial Advisory", "Risk Management", "Compliance"]
   },
   {
     "jobTitle": "ManagerQuality Management",
     "companyName": "Novo Nordisk",
     "experience": "5-7 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Quality Management", "GMP", "Regulatory Compliance", "Process Improvement"]
   },
   {
     "jobTitle": "System Specialist I",
     "companyName": "Novo Nordisk",
     "experience": "2-5 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["System Administration", "IT Support", "Troubleshooting", "Networking"]
   },
   {
     "jobTitle": "Sales Assistant - Enterprise , Amazon Business",
     "companyName": "Amazon",
     "experience": "3-9 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Sales Support", "CRM", "Customer Service", "Data Analysis"]
   },
   {
     "jobTitle": "Sr Offering Management Lead",
     "companyName": "Honeywell",
     "experience": "5-7 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Product Management", "Market Analysis", "Business Strategy", "Customer Engagement"]
   },
   {
     "jobTitle": "Engineer Electrical",
     "companyName": "Jacobs",
     "experience": "3-6 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Electrical Engineering", "Circuit Design", "Power Systems", "AutoCAD"]
   },
   {
     "jobTitle": "AGM - Product Manager",
     "companyName": "John Deere",
     "experience": "5-10 Yrs",
     "location": "Hubli, Mangaluru, Mysuru, Bengaluru, Belgaum",
-    "skills": []
+    "skills": ["Product Management", "Market Research", "Product Development", "Agile Methodology"]
   },
   {
     "jobTitle": "Amazon Private Brand PM, Amazon Private Brand",
     "companyName": "Amazon",
     "experience": "5-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Product Management", "Brand Strategy", "Market Analysis", "Retail"]
   },
   {
     "jobTitle": "Sr IT Analyst",
     "companyName": "Honeywell",
     "experience": "5-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["IT Analysis", "System Integration", "Data Analysis", "Project Management"]
   },
   {
     "jobTitle": "New-CCASS-Manager",
     "companyName": "EY",
     "experience": "6-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
+    "skills": ["Financial Advisory", "Risk Management", "Compliance", "Consulting"]
   },
   {
     "jobTitle": "Mechanical Design Engineer",
     "companyName": "Juniper Networks",
     "experience": "6-10 Yrs",
     "location": "Bengaluru",
-    "skills": []
-  },
+    "skills": ["Mechanical Design", "CAD", "Product Development", "Prototyping"]
+  },  
   {
-    "jobTitle": "Sr Manager, Business Strategy and Operations, SDS",
-    "companyName": "Watson Pharama",
-    "experience": "5-10 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "SAP BTP Cloud Integration Consultant - Gurgaon/Bangalore",
-    "companyName": "SAP",
-    "experience": "4-6 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": ".Net + React Technical Lead I and Technical Specialist I Bangalore.",
-    "companyName": "Citiustech",
-    "experience": "7-11 Yrs",
-    "location": "Hybrid - Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Intern-Stylist",
-    "companyName": "Puma",
-    "experience": "N/A",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Branch Internship Executive",
-    "companyName": "Muthoot Finance",
-    "experience": "N/A",
-    "location": "Bengaluru(Ramachandrapura +160)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cars24 Urgent Hiring || Retail Associate || Bangalore ||",
-    "companyName": "Cars24",
-    "experience": "N/A",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "EEG RM - (Emerging Enterprises Group - Relationship RM)",
-    "companyName": "Hdfc Bank",
-    "experience": "3-8 Yrs",
-    "location": "Chennai, Coimbatore, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cars24 Urgent Hiring || Retail Associate || Bangalore ||",
-    "companyName": "Cars24",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
-  },
-  {
-    "jobTitle": "Title Search/Examiner- Walk-in interview on 15th Feb - FNF India",
-    "companyName": "Fidelity National Financial (FNF)",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
-  },
-  {
-    "jobTitle": "HR Reward Specialist- Compensation & benefit",
-    "companyName": "Deutsche Bank",
-    "experience": "4-9 Yrs",
-    "location": "Bangalore Rural, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Tech Mahindra Hiring -Body Control Module -Bangalore",
-    "companyName": "Tech Mahindra",
-    "experience": "9-11 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "International Recruiter Executive (Non-IT)",
-    "companyName": "BVG India",
-    "experience": "2-3 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Loan Manager- Gold Loan (Hubli, Bangalore, Shivamogga, )",
-    "companyName": "IIFL Finance",
-    "experience": "1-6 Yrs",
-    "location": "Hubli, Shimoga, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Hiring - Non IT Recruiter (End To End Recruitment) - Bangalore",
-    "companyName": "Trigent Software",
-    "experience": "3-6 Yrs",
-    "location": "Bengaluru(Vidhana Soudha Layout)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Marketing Executive",
-    "companyName": "Endurance Technologies",
-    "experience": "3-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Capgemini || Java Developer || Bangalore/Chennai",
-    "companyName": "Capgemini",
-    "experience": "4-9 Yrs",
-    "location": "Hybrid - Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "HCL Software Hiring For Application Penetration Tester_Bangalore",
-    "companyName": "HCLTech",
-    "experience": "3-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Product Manager",
-    "companyName": "HCLTech",
-    "experience": "8-13 Yrs",
-    "location": "Hybrid - Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Qa Engineer",
-    "companyName": "Nutanix",
-    "experience": "3-8 Yrs",
-    "location": "Bangalore Rural",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cognizant is hiring For API Automation- On 15th Feb F2F Interview!!",
-    "companyName": "Cognizant",
-    "experience": "6-11 Yrs",
-    "location": "Hybrid - Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Qa Automation Testing Engineer with Kitlin",
-    "companyName": "NTT DATA",
-    "experience": "5-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Genpact Hiring For DB2 - Python, Unix Shell",
-    "companyName": "Genpact",
-    "experience": "6-11 Yrs",
-    "location": "Hybrid - Bangalore/Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cognizant is hiring For Java Developers-Walk-In Interview !!!",
-    "companyName": "Cognizant",
-    "experience": "5-10 Yrs",
-    "location": "Hybrid - Kochi, Chennai, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Security Engineer",
-    "companyName": "Flipkart",
-    "experience": "3-5 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Hr Recruitment Analyst",
-    "companyName": "Trigent Software",
-    "experience": "1-5 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Branch Manager @ Bangalore",
-    "companyName": "HERITAGE FOODS LIMITED",
-    "experience": "7-12 Yrs",
-    "location": "Bengaluru(Whitefield +3)",
-    "skills": []
-  },
-  {
-    "jobTitle": "Project Management",
-    "companyName": "HCLTech",
-    "experience": "15-20 Yrs",
-    "location": "Hybrid - Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Industry Strategy Chemical Manager",
-    "companyName": "Accenture",
-    "experience": "1-3 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Consultant",
-    "companyName": "Flipkart",
-    "experience": "3-5 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Development Engineer III",
-    "companyName": "Flipkart",
-    "experience": "5-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "GN - SONG - Service - Japan Bilingual - Consultant",
-    "companyName": "Accenture",
-    "experience": "2-6 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead .NET Developer (WS)",
-    "companyName": "Conduent",
-    "experience": "6-9 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "GN - SONG - Service - Platforms-Microsoft-Senior Manager",
-    "companyName": "Accenture",
-    "experience": "15-19 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "CTS Specialist",
-    "companyName": "Accenture",
-    "experience": "7-9 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "GN - SONG - Service - Business Process - Consultant",
-    "companyName": "Accenture",
-    "experience": "3-5 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "GN - SONG - Design and Digital Products - UI/UX - Specialist",
-    "companyName": "Accenture",
-    "experience": "4-8 Yrs",
-    "location": "Hyderabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "GN - SONG - Service - Salesforce Platforms - Associate Director",
-    "companyName": "Accenture",
-    "experience": "5-10 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Golang Developer",
-    "companyName": "AMERICAN EXPRESS",
-    "experience": "7-10 Yrs",
-    "location": "Hybrid - Bangalore Rural, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cognizant - Walk-in Interview For Dot Net Developer - 15th Feb Drive",
-    "companyName": "Cognizant",
-    "experience": "6-11 Yrs",
-    "location": "Hybrid - Chennai, Coimbatore, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Data Platform Engineer",
-    "companyName": "Accenture",
-    "experience": "7-12 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Development Engineer",
-    "companyName": "Accenture",
-    "experience": "5-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Application Lead",
-    "companyName": "Accenture",
-    "experience": "5-10 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Cognizant walk-in For Java AWS developer-15th Feb",
-    "companyName": "Cognizant",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
-  },
-  {
-    "jobTitle": "Consultant - TAX - National - TAX - ITTS - Advisory - Bangalore",
-    "companyName": "EY",
-    "experience": "1-3 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Customer Project Manager",
-    "companyName": "Schneider Electric",
-    "experience": "2-3 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior Analyst - Kinaxis",
-    "companyName": "Schneider Electric",
-    "experience": "2-5 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "User Assistance Developer",
-    "companyName": "SAP",
-    "experience": "2-5 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Consultant - TAX - National - TAX - PAS - Mobility Core - Bangalore",
-    "companyName": "EY",
-    "experience": "2-3 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Quality Specialist III",
-    "companyName": "Watson Pharama",
-    "experience": "1-4 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "UX Designer",
-    "companyName": "Honeywell",
-    "experience": "1-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Senior TAC Engineer - Routing",
-    "companyName": "Juniper Networks",
-    "experience": "4-9 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Employee Relations Manager",
-    "companyName": "Visa",
-    "experience": "4-9 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Lead Analyst - Kinaxis",
-    "companyName": "Schneider Electric",
-    "experience": "2-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Kinaxis DevOps Lead",
-    "companyName": "Schneider Electric",
-    "experience": "2-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Finance Operation Admin III",
-    "companyName": "Watson Pharama",
-    "experience": "6-11 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Expert - Kinaxis",
-    "companyName": "Schneider Electric",
-    "experience": "2-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Associate",
-    "companyName": "EY",
-    "experience": "5-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Electrical Senior Engineer",
-    "companyName": "Dell Technologies",
-    "experience": "5-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sr Advanced Cyb Sec Archt/Engr",
-    "companyName": "Honeywell",
-    "experience": "5-10 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Routing Technical Support Engineer 2",
-    "companyName": "Juniper Networks",
-    "experience": "5-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Global Associate Director Cardiovascular",
-    "companyName": "Novo Nordisk",
-    "experience": "4-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Advanced Software Engr",
-    "companyName": "Honeywell",
-    "experience": "5-10 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "EBS Technical (SCM+CEMLI) expert",
-    "companyName": "Oracle",
-    "experience": "6-10 Yrs",
-    "location": "Hyderabad",
-    "skills": []
-  },
-  {
-    "jobTitle": "Operations Buyer",
-    "companyName": "Cargill",
-    "experience": "2-5 Yrs",
-    "location": "Hybrid - Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Manager- Sales Analytics",
-    "companyName": "Hindustan Coca Cola Beverages (HCCB)",
-    "experience": "3-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Tcs IS Hiring -Windows, VMWare Administration(AWS) 4to10 -Bangalore",
-    "companyName": "Tata Consultancy Services",
-    "experience": "N/A",
-    "location": "N/A",
-    "skills": []
-  },
-  {
-    "jobTitle": "Assistant Sourcing Manager - IT Procurement",
-    "companyName": "Hindustan Unilever (HUL)",
-    "experience": "7-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Software Development Engineer - II, Amazon",
-    "companyName": "Amazon",
-    "experience": "2-9 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Consultant - Vitreo Retina",
-    "companyName": "Bangalore West Lions Eye Hospital Cornea Grafting Centre",
-    "experience": "5-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sales Specialist, Global Sales, IN Global Sales",
-    "companyName": "Amazon",
-    "experience": "4-10 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Immediate requirement For Power BI",
-    "companyName": "Wipro",
-    "experience": "7-12 Yrs",
-    "location": "Chennai, Coimbatore, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Tracxn - Sector Specialist / Manager Sector Specialist (0 - 8 yrs)",
-    "companyName": "Tracxn",
-    "experience": "3-8 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Institutional Sales Manager",
-    "companyName": "Wonderla Holidays",
-    "experience": "3-6 Yrs",
-    "location": "Bangalore Rural, Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Associate Director - DDIT R&D Project Team Lead",
-    "companyName": "Merck",
-    "experience": "7-12 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Asst Manager/ Manager-Plant HR (HRBP) (Leading MNC Manufacturing Co)",
-    "companyName": "Leading MNC Manufacturing Company",
-    "experience": "3-7 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sr. Finance Analyst",
-    "companyName": "Honeywell",
-    "experience": "7-12 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Sr Manager - Launch & Product Change Management",
-    "companyName": "Watson Pharama",
-    "experience": "10-15 Yrs",
-    "location": "Bengaluru",
-    "skills": []
-  },
-  {
-    "jobTitle": "Advanced Hardware Engr",
+    "jobTitle": "Advanced Hardware Engineer",
     "companyName": "Honeywell",
     "experience": "8-13 Yrs",
     "location": "Bengaluru",
